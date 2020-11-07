@@ -1,0 +1,4006 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Apr 20 09:46:50 +0000 2020",
+      "id": 1252171861951201300,
+      "id_str": "1252171861951201281",
+      "full_text": "Привет, ребята. Эту неделю вести аккаунт буду я, Грозин Владислав (@rampeer). Сейчас работаю в https://t.co/6jLwutoPiH В DS уже шесть лет, занимался в основном рекомендательными системами в е-коммерсе. Кто-то меня ещё может знать как активиста ODS и основателя Pet Projects.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rampeer",
+            "name": "rampeer",
+            "id": 1102592786040262700,
+            "id_str": "1102592786040262656",
+            "indices": [
+              67,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6jLwutoPiH",
+            "expanded_url": "http://constructor.io",
+            "display_url": "constructor.io",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 09:52:12 +0000 2020",
+      "id": 1252173209505587200,
+      "id_str": "1252173209505587202",
+      "full_text": "Тут модно рассказывать про кто откуда и где учился. И я расскажу. Я из Питера, увлекался олимпиадными программированием, и пошел в ИТМО. Совершенно случайно наткнулся на Data Mining Labs, образовательный кружок Алексея Натёкина. DS оказался круче олимпиадного программирования",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252171861951201300,
+      "in_reply_to_status_id_str": "1252171861951201281",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 09:56:22 +0000 2020",
+      "id": 1252174261399273500,
+      "id_str": "1252174261399273472",
+      "full_text": "потому что больше связей с реальностью, а хардкорная математика под капотом осталась. Перед тем как работать \"по интересу\", писал сетевые драйвера для Линкуса, мобильные игры под Андроид и админил сервера LAMP.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252173209505587200,
+      "in_reply_to_status_id_str": "1252173209505587202",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 10:03:53 +0000 2020",
+      "id": 1252176151239327700,
+      "id_str": "1252176151239327745",
+      "full_text": "Планчик на неделю:\n1. Рекомендательные системы - разрушаем некоторые мифы\n2. Как выживают на удалёнке?\n3. Графовые рекомендательные системы\n4. Reinforecement Learning в рекомендательных системах\n5. Продуктивность и планирование\n6. Академия, инженерия, менеджмент. Что лучше?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 33,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 18:55:09 +0000 2020",
+      "id": 1252309848114462700,
+      "id_str": "1252309848114462726",
+      "full_text": "Дальше работа в Diginetica. Делал поиск и рекомендашки для Юлмарта, Спортмастера, Красного&amp;Белого, и других крупных игроков. Там поднялся с рядового аналитика до руководителя DS в компании. Из хайлайтов работы - \"отбили\" Медиамаркт от Yandex Data Factory ...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252174261399273500,
+      "in_reply_to_status_id_str": "1252174261399273472",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 18:59:21 +0000 2020",
+      "id": 1252310906182271000,
+      "id_str": "1252310906182270978",
+      "full_text": "... сделав рекомендашку круче, чем у них. Сейчас работаю в Долинном стартапе, где делаю принципиально то же самое, но уже на американском рынке.\n\nПараллельно со всем этим - опенсорс, отдельные проекты и консалтинг.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252309848114462700,
+      "in_reply_to_status_id_str": "1252309848114462726",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 19:03:21 +0000 2020",
+      "id": 1252311913964413000,
+      "id_str": "1252311913964412929",
+      "full_text": "@brdt_D @rampeer Pet Projects - инициатива внутри ODS. Чатик в телеграмме и в Слаке, где можно собрать команду для проектов, направленных на развитие отдельных скиллов, портфолио или коммьюнити; а также периодические встречи, где можно поведать об успехах или про свои идеи https://t.co/0doGkGUt7D",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        297
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "brdt_D",
+            "name": "Dmitry",
+            "id": 2951680877,
+            "id_str": "2951680877",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "rampeer",
+            "name": "rampeer",
+            "id": 1102592786040262700,
+            "id_str": "1102592786040262656",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0doGkGUt7D",
+            "expanded_url": "https://t.me/ods_pet_projects",
+            "display_url": "t.me/ods_pet_projec…",
+            "indices": [
+              274,
+              297
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252196170677485600,
+      "in_reply_to_status_id_str": "1252196170677485570",
+      "in_reply_to_user_id": 2951680877,
+      "in_reply_to_user_id_str": "2951680877",
+      "in_reply_to_screen_name": "brdt_D",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 20:06:57 +0000 2020",
+      "id": 1252327916639314000,
+      "id_str": "1252327916639313927",
+      "full_text": "1. Рекомендательные системы - разрушаем некоторые мифы.\n\nПоехали. Интерфейс и формат Твиттера мне непривычны; поэтому крепитесь держитесь - впереди стены текста.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 20:07:46 +0000 2020",
+      "id": 1252328125075198000,
+      "id_str": "1252328125075197954",
+      "full_text": "Что такое \"Рекомендательная система\"? Англоязычная Википедия говорит, что это система для прогнозирования рейтингов для пары (объект, пользователь). Это старое определение.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252327916639314000,
+      "in_reply_to_status_id_str": "1252327916639313927",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 20:07:55 +0000 2020",
+      "id": 1252328162635194400,
+      "id_str": "1252328162635194368",
+      "full_text": "Его ноги которого растут из Netflix Prize, соревнования, которое дало большой толчок развития области, и где и вправду надо было прогнозировать рейтинг для пар (пользователь, фильм).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252328125075198000,
+      "in_reply_to_status_id_str": "1252328125075197954",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 20:08:36 +0000 2020",
+      "id": 1252328332571684900,
+      "id_str": "1252328332571684866",
+      "full_text": "Более современное определение - это система, которая может из большого набора подобрать необходимые объекты исходя из ситуации (пользователь, поисковой запрос, просматриваемый объект, ...). Да, это можно свести к регрессии/классификации, но это один из способов подойти к решению.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252328162635194400,
+      "in_reply_to_status_id_str": "1252328162635194368",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:16:59 +0000 2020",
+      "id": 1252345542408994800,
+      "id_str": "1252345542408994818",
+      "full_text": "Поэтому почти все современные пейперы меряют качество именно топа выдачи рекомендательной системы (и частенько - и оптимизируются прямо под него).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252328332571684900,
+      "in_reply_to_status_id_str": "1252328332571684866",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:22:35 +0000 2020",
+      "id": 1252346950642364400,
+      "id_str": "1252346950642364418",
+      "full_text": "У многих \"коллаборативная фильтрация\" - синоним рекомендашек.На самом деле коллаборативная и контентная фильтрации  - это предположения для построения рекомендашек. Эти термины очень старые - пожалуйста, используйте их осторожно. Сейчас все за редким исключением системы гибридные",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252345542408994800,
+      "in_reply_to_status_id_str": "1252345542408994818",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:24:06 +0000 2020",
+      "id": 1252347334769258500,
+      "id_str": "1252347334769258497",
+      "full_text": "\"Коллаборативная фильтрация\" -  у нас пользователей так много, что они образуют кластера \"интересов\", и мы можем использовать информацию с соседей в кластере, чтобы сделать рекомендацию пользователю (т.е. пользователи \"коллаборируются\" друг с другом для построения рекомендаций).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252346950642364400,
+      "in_reply_to_status_id_str": "1252346950642364418",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:26:03 +0000 2020",
+      "id": 1252347823611195400,
+      "id_str": "1252347823611195395",
+      "full_text": "По вышенаписанному, видам и типам рекомендашек - есть классный (пускай и старый) survey, где всё отлично разложено по полочкам: https://t.co/Pv8LVRCpzc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Pv8LVRCpzc",
+            "expanded_url": "https://www.sciencedirect.com/science/article/abs/pii/S0950705113001044?via%3Dihub",
+            "display_url": "sciencedirect.com/science/articl…",
+            "indices": [
+              128,
+              151
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252347334769258500,
+      "in_reply_to_status_id_str": "1252347334769258497",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:28:37 +0000 2020",
+      "id": 1252348470414815200,
+      "id_str": "1252348470414815233",
+      "full_text": "Теперь касательно индустриальной части.\n\nРеальная работа над рекомендашками часто сводится к определении того, под что именно должна оптимизироваться система (=много аналитики и графиков), где система лажает (=ещё аналитика) и добавлению фичей, которые должны это исправить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252347823611195400,
+      "in_reply_to_status_id_str": "1252347823611195395",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:28:50 +0000 2020",
+      "id": 1252348523669934000,
+      "id_str": "1252348523669934082",
+      "full_text": "Никто не сидит и не \"имплементит коллаборативную фильтрацию\" до посинения, выражаясь словами одного собеседуемого :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252348470414815200,
+      "in_reply_to_status_id_str": "1252348470414815233",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:29:41 +0000 2020",
+      "id": 1252348738296676400,
+      "id_str": "1252348738296676352",
+      "full_text": "Поэтому темы Multistakeholder RS и использование RL мне интересны. Они решают реальные индустриальные проблемы, так как часто надо оптимизироваться под пачку критериев сразу (выручка, оборот, остатки на складе); и многие сигналы - отложены. Поподробнее про это будет в четверг",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252348523669934000,
+      "in_reply_to_status_id_str": "1252348523669934082",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:30:02 +0000 2020",
+      "id": 1252348825122922500,
+      "id_str": "1252348825122922498",
+      "full_text": "@dkbober Да. Извините, жаргонизм",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dkbober",
+            "name": "drewkb",
+            "id": 550426675,
+            "id_str": "550426675",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252348431743369200,
+      "in_reply_to_status_id_str": "1252348431743369216",
+      "in_reply_to_user_id": 550426675,
+      "in_reply_to_user_id_str": "550426675",
+      "in_reply_to_screen_name": "dkbober",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 21:44:04 +0000 2020",
+      "id": 1252352359847481300,
+      "id_str": "1252352359847481345",
+      "full_text": "По метрикам есть отличный обзор https://t.co/1NIwOAgk4i",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        55
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1NIwOAgk4i",
+            "expanded_url": "https://www.researchgate.net/publication/321812152_How_good_your_recommender_system_is_A_survey_on_evaluations_in_recommendation",
+            "display_url": "researchgate.net/publication/32…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252345542408994800,
+      "in_reply_to_status_id_str": "1252345542408994818",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 09:18:52 +0000 2020",
+      "id": 1252527209946001400,
+      "id_str": "1252527209946001409",
+      "full_text": "@tumikosha Будут все темы :)",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        28
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tumikosha",
+            "name": "tumikosha",
+            "id": 17211858,
+            "id_str": "17211858",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252372259806699500,
+      "in_reply_to_status_id_str": "1252372259806699520",
+      "in_reply_to_user_id": 17211858,
+      "in_reply_to_user_id_str": "17211858",
+      "in_reply_to_screen_name": "tumikosha",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 19:44:08 +0000 2020",
+      "id": 1252684562271961000,
+      "id_str": "1252684562271961089",
+      "full_text": "2. Как выживают на удалёнке?\n\n4 года я работал на удалёнке, делаю это по сей день, и сейчас поделюсь своими находками, наблюдениями и лайфхаками.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 19:47:48 +0000 2020",
+      "id": 1252685488462483500,
+      "id_str": "1252685488462483462",
+      "full_text": "Сразу отмечу, что это не для всех. Почти всегда будет потеря в продуктивности. Некоторым тяжело без коллег рядом, которые тоже чем-то заняты, к которым можно подойти что-то спросить, и этой общей офисной рабочей атмосферы.\n\nЭто абсолютно нормально. Времени больше не становится.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252684562271961000,
+      "in_reply_to_status_id_str": "1252684562271961089",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 19:58:16 +0000 2020",
+      "id": 1252688122573475800,
+      "id_str": "1252688122573475841",
+      "full_text": "Касательно времени. В удалёнке легко скиснуть, и важно быть честным с собой. Откладывать работу до часа до стенд-апа - очевидно плохая идея, но мозг может идти на невероятные уловки, чтобы не замечать этого. Ведь это видео с котиком очень милое, и всего пять минут длиной, да? :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252685488462483500,
+      "in_reply_to_status_id_str": "1252685488462483462",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:00:34 +0000 2020",
+      "id": 1252688697994215400,
+      "id_str": "1252688697994215436",
+      "full_text": "Тут помогают программы, которые отслеживают время (я пользуюсь https://t.co/HqgFR7HCVB). ВНЕЗАПНО оказывается, что из 8-часового дня мы реально работаем только часа 4 (в том числе и в офисе); становится понятно, куда уходит время, и можно почерпнуть полезные закономерности.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HqgFR7HCVB",
+            "expanded_url": "https://www.rescuetime.com/",
+            "display_url": "rescuetime.com",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252688122573475800,
+      "in_reply_to_status_id_str": "1252688122573475841",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:05:57 +0000 2020",
+      "id": 1252690053492596700,
+      "id_str": "1252690053492596737",
+      "full_text": "Например, обнаружил, например, что если утром посмотреть какой-нибудь сериальчик, то день насмарку\n\nА ещё однажды решил попробовать максимизировать эффективное время. Набрал 70 часов в неделю. Интересный опыт. Эксперимент сам повторять не планирую, но вам рекомендую попробовать:)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252688697994215400,
+      "in_reply_to_status_id_str": "1252688697994215436",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:08:29 +0000 2020",
+      "id": 1252690692083761200,
+      "id_str": "1252690692083761170",
+      "full_text": "На удалёнке большую роль играют ритуалы. Если мы работаем постоянно в одном месте, в офисной одежде в и в одинаковых условиях, то голова привыкает это делать, и собраться проще.\n\nПоэтому удалёнщик без штанов - это неэффективный удалёнщик :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252690053492596700,
+      "in_reply_to_status_id_str": "1252690053492596737",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:10:33 +0000 2020",
+      "id": 1252691213414740000,
+      "id_str": "1252691213414739968",
+      "full_text": "Если интересна работа из дома и удалёнка - то можете подписаться на блог Trello. Они пишут очень интересные штуки про продуктивность, и часто затрагивают эту тему.\n\nhttps://t.co/dDdHxJUHTO",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dDdHxJUHTO",
+            "expanded_url": "https://blog.trello.com/work-from-home-guides",
+            "display_url": "blog.trello.com/work-from-home…",
+            "indices": [
+              165,
+              188
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252690692083761200,
+      "in_reply_to_status_id_str": "1252690692083761170",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:14:50 +0000 2020",
+      "id": 1252692288767213600,
+      "id_str": "1252692288767213568",
+      "full_text": "Другой немаловажный компонент успеха - наличие плана.\n\nСписок задач на день даст сконцентрироваться на важном. Подробнее про это будет в пятницу (символично). А график не даст циклу сна уехать непонятно куда; это ключ продуктивности согласно авторитетным биохакерам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252691213414740000,
+      "in_reply_to_status_id_str": "1252691213414739968",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:17:25 +0000 2020",
+      "id": 1252692941463867400,
+      "id_str": "1252692941463867395",
+      "full_text": "Последняя находка, которой я сегодня поделюсь - это про еду.\n\nДоставка рационов питания, как оказывается, не так дорога, и не позволит отъестся в карантин. Дешевле только готовить самому.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252692288767213600,
+      "in_reply_to_status_id_str": "1252692288767213568",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 20:20:01 +0000 2020",
+      "id": 1252693595343196200,
+      "id_str": "1252693595343196169",
+      "full_text": "Кстати, как ваша удалёнка? После перехода на работу из дома продуктивность",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        74
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252692941463867400,
+      "in_reply_to_status_id_str": "1252692941463867395",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 09:17:08 +0000 2020",
+      "id": 1252889161281024000,
+      "id_str": "1252889161281024001",
+      "full_text": "@gdvngct Можно выбрать \"эффективность уменьшилась\" :)\n\nНу а вообще - у вас же всё просто прекрасно с продуктивностью",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdvngct",
+            "name": "училка",
+            "id": 1605740474,
+            "id_str": "1605740474",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252720671085531100,
+      "in_reply_to_status_id_str": "1252720671085531140",
+      "in_reply_to_user_id": 1605740474,
+      "in_reply_to_user_id_str": "1605740474",
+      "in_reply_to_screen_name": "gdvngct",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 09:19:42 +0000 2020",
+      "id": 1252889809028362200,
+      "id_str": "1252889809028362244",
+      "full_text": "@zxovq Уточню формулировку - эффективного времени.",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zxovq",
+            "name": "/dev/null",
+            "id": 1603342602,
+            "id_str": "1603342602",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252709443596251100,
+      "in_reply_to_status_id_str": "1252709443596251137",
+      "in_reply_to_user_id": 1603342602,
+      "in_reply_to_user_id_str": "1603342602",
+      "in_reply_to_screen_name": "zxovq",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 09:27:43 +0000 2020",
+      "id": 1252891827591688200,
+      "id_str": "1252891827591688193",
+      "full_text": "@alkor_ @zxovq На мой вкус, просто разным людям подходят разные режимы работы.\nКто-то раскрывает свой потенциал под давлением сроков, а кому-то важна размеренная работа. Кому-то важен коллектив, кому-то нет. Кому-то надо иметь внешний стимул, кто-то ценит свободу.\nПлохого ничего не вижу.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        288
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alkor_",
+            "name": "Alkor",
+            "id": 126969504,
+            "id_str": "126969504",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "zxovq",
+            "name": "/dev/null",
+            "id": 1603342602,
+            "id_str": "1603342602",
+            "indices": [
+              8,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252828478304473000,
+      "in_reply_to_status_id_str": "1252828478304473090",
+      "in_reply_to_user_id": 126969504,
+      "in_reply_to_user_id_str": "126969504",
+      "in_reply_to_screen_name": "alkor_",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 09:29:31 +0000 2020",
+      "id": 1252892278122860500,
+      "id_str": "1252892278122860544",
+      "full_text": "@gdvngct Ну вот.\n\nПрекрасно же - выбирай \"стало лучше\" :)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gdvngct",
+            "name": "училка",
+            "id": 1605740474,
+            "id_str": "1605740474",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252891497332183000,
+      "in_reply_to_status_id_str": "1252891497332183040",
+      "in_reply_to_user_id": 1605740474,
+      "in_reply_to_user_id_str": "1605740474",
+      "in_reply_to_screen_name": "gdvngct",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 19:17:23 +0000 2020",
+      "id": 1253040218707550200,
+      "id_str": "1253040218707550208",
+      "full_text": "3. Графовые рекомендательные системы.\n\nЭто крайне обширная область, которую я для себя открыл только недавно, и сейчас расскажу про интересные штуками, которые успел нарыть",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 19:18:44 +0000 2020",
+      "id": 1253040561180852200,
+      "id_str": "1253040561180852226",
+      "full_text": "Думаю, базовая идея уже понятна из названия - мы представляем наши данные в виде разных объектов со связями между ними (т.е. взвешенного графа), и дальше применяем к нему всевозможные графовые алгоритмы для решения задачи генерации рекомендаций.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253040218707550200,
+      "in_reply_to_status_id_str": "1253040218707550208",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 19:28:44 +0000 2020",
+      "id": 1253043078233014300,
+      "id_str": "1253043078233014284",
+      "full_text": "Давайте решать задачу ранжирования страниц в поисковике. Сделаем граф, узлы - страницы; связи - ссылки между ними. Будем случайно \"гулять\" по нему, переходя от узла к узлу по ссылкам (и иногда \"прыгая\" на новую случайную страницу)...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253040561180852200,
+      "in_reply_to_status_id_str": "1253040561180852226",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 19:30:09 +0000 2020",
+      "id": 1253043432559456300,
+      "id_str": "1253043432559456256",
+      "full_text": "... Для каждого узла посчитаем вероятность того что мы в нём окажемся там в случайный момент времени (стационарная вероятности). Чем чаще на страницу ссылаются, тем выше будет вероятность, и тем выше надо показывать её в поиске.\n\nЭтот алгоритм - PageRank, который в основе Гугла.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253043078233014300,
+      "in_reply_to_status_id_str": "1253043078233014284",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 19:31:21 +0000 2020",
+      "id": 1253043735916687400,
+      "id_str": "1253043735916687360",
+      "full_text": "Кстати, в статье про PageRank есть вот такая забавная фраза\n\n&gt; To test the utility of PageRank for search, we built a web search engine called Google (Section 5)\n\nА ещё тут Page - это не только \"страница\", но и фамилия автора, Larry Page. Сочно, да?\n\nhttps://t.co/zBqaPNcNg0",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zBqaPNcNg0",
+            "expanded_url": "http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf",
+            "display_url": "ilpubs.stanford.edu:8090/422/1/1999-66.…",
+            "indices": [
+              254,
+              277
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253043432559456300,
+      "in_reply_to_status_id_str": "1253043432559456256",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Apr 22 20:00:42 +0000 2020",
+      "id": 1253051122786414600,
+      "id_str": "1253051122786414605",
+      "full_text": "Можно эту конструкцию усложнять. Например - считать не просто стационарную вероятность, а если мы будем начинать блуждать с каких-то конкретных узлов (истории пользователей), и возвращаться на них же.\n\nТак мы получим не один глобальный скоринг, а персонализированный.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253043735916687400,
+      "in_reply_to_status_id_str": "1253043735916687360",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 20:01:00 +0000 2020",
+      "id": 1253051197101084700,
+      "id_str": "1253051197101084675",
+      "full_text": "Отличный обзор графовых методов, основанных на случайных блужданиях вот тут:\nhttps://t.co/P4mbs42A9Z",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P4mbs42A9Z",
+            "expanded_url": "https://www.researchgate.net/publication/321070258_Recommender_Systems_with_Random_Walks_A_Survey",
+            "display_url": "researchgate.net/publication/32…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253051122786414600,
+      "in_reply_to_status_id_str": "1253051122786414605",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 20:15:34 +0000 2020",
+      "id": 1253054863640010800,
+      "id_str": "1253054863640010753",
+      "full_text": "Многие SotA методы в рекомендашках похожи: строим эмбеддинг юзеров и товаров; считаем дистанцию между ними / между парами товаров.\n\nВ индустрии не нужно считать схожесть ВСЕХ пользователей и ВСЕХ товаров - достаточно запомнить самые похожие. Если это сделаем, то получим... граф.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253051197101084700,
+      "in_reply_to_status_id_str": "1253051197101084675",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 20:21:19 +0000 2020",
+      "id": 1253056310330998800,
+      "id_str": "1253056310330998790",
+      "full_text": "Поэтому в индустрии и на практике они часто всплывают, иногда в неожиданных местах.\n\nВот, например, Pinterest случайно блуждает (в онлайне!) по подготовленному графу: https://t.co/5wpcUGsFhh\nили Одноклассники делают хитрые штуки на хитром графе https://t.co/pWQbdHwlvl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5wpcUGsFhh",
+            "expanded_url": "https://dl.acm.org/doi/pdf/10.1145/3178876.3186183",
+            "display_url": "dl.acm.org/doi/pdf/10.114…",
+            "indices": [
+              167,
+              190
+            ]
+          },
+          {
+            "url": "https://t.co/pWQbdHwlvl",
+            "expanded_url": "https://arxiv.org/abs/1310.7428",
+            "display_url": "arxiv.org/abs/1310.7428",
+            "indices": [
+              245,
+              268
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253054863640010800,
+      "in_reply_to_status_id_str": "1253054863640010753",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 20:28:41 +0000 2020",
+      "id": 1253058161365352400,
+      "id_str": "1253058161365352454",
+      "full_text": "В прекрасной статье https://t.co/sQglDh9lVF написано, что у многие популярные модельки не воспроизводятся / не бьют бейзлайн. И тут выделяется моделька SLIM, которая всех рвёт.\n\nЗнаете, что под капотом SLIM? По сути - обучение графа похожести объектов.  \n\nhttps://t.co/F9t50px2cG",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sQglDh9lVF",
+            "expanded_url": "https://arxiv.org/abs/1907.06902",
+            "display_url": "arxiv.org/abs/1907.06902",
+            "indices": [
+              20,
+              43
+            ]
+          },
+          {
+            "url": "https://t.co/F9t50px2cG",
+            "expanded_url": "http://glaros.dtc.umn.edu/gkhome/fetch/papers/SLIM2011icdm.pdf",
+            "display_url": "glaros.dtc.umn.edu/gkhome/fetch/p…",
+            "indices": [
+              256,
+              279
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253056310330998800,
+      "in_reply_to_status_id_str": "1253056310330998790",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 21:16:14 +0000 2020",
+      "id": 1253070128209637400,
+      "id_str": "1253070128209637377",
+      "full_text": "И на закуску - пару слов про самые современные методы.\n\nПрогресс и нейросети пришли и в графовые рекомендации, поэтому будут сеточки.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        133
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253058161365352400,
+      "in_reply_to_status_id_str": "1253058161365352454",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 21:18:13 +0000 2020",
+      "id": 1253070630443942000,
+      "id_str": "1253070630443941890",
+      "full_text": "В графовых сетях идея простая: каждый узел генерирует соседям сообщения (вектора), которые зависят от эмбеддинга и типа связи. Затем каждый узел агрегирует входящие \"сообщения\", и обновляет свой вектор состояния. Потом - снова рассылка, и процедура повторяется до сходимости.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253070128209637400,
+      "in_reply_to_status_id_str": "1253070128209637377",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 21:19:44 +0000 2020",
+      "id": 1253071008464060400,
+      "id_str": "1253071008464060427",
+      "full_text": "В разных моделях разные способы формирования сообщений, агрегации и лоссов. На 6й страницы этой статьи отличная сводка по разным графовым сеткам: https://t.co/ik0FibiSWk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ik0FibiSWk",
+            "expanded_url": "https://arxiv.org/pdf/1812.08434.pdf",
+            "display_url": "arxiv.org/pdf/1812.08434…",
+            "indices": [
+              146,
+              169
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253070630443942000,
+      "in_reply_to_status_id_str": "1253070630443941890",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 21:20:23 +0000 2020",
+      "id": 1253071174155882500,
+      "id_str": "1253071174155882505",
+      "full_text": "А применительно к рекомендациям, пару примеров:\n\nGraph convolutional matrix completion, который напрямую прогнозирует связь в двудольном графе: https://t.co/NDKdBrz7JR\n\nПохожая моделька чуть поновее и с хитрым семплированием, PinSage: https://t.co/jTql6dxhgA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NDKdBrz7JR",
+            "expanded_url": "https://arxiv.org/pdf/1706.02263.pdf",
+            "display_url": "arxiv.org/pdf/1706.02263…",
+            "indices": [
+              144,
+              167
+            ]
+          },
+          {
+            "url": "https://t.co/jTql6dxhgA",
+            "expanded_url": "https://arxiv.org/pdf/1806.01973.pdf",
+            "display_url": "arxiv.org/pdf/1806.01973…",
+            "indices": [
+              235,
+              258
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253071008464060400,
+      "in_reply_to_status_id_str": "1253071008464060427",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 21:24:57 +0000 2020",
+      "id": 1253072325248987100,
+      "id_str": "1253072325248987137",
+      "full_text": "В графовых сетках легко и естественно использовать контентную информацию (а в индустрии этой информации очень много).\n\nЭтим воспользовался KGAT, где к взаимодействиям пользователей добавлена контентная информация про объекты.\nhttps://t.co/MNig0hgkoC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MNig0hgkoC",
+            "expanded_url": "https://arxiv.org/pdf/1905.07854v2.pdf",
+            "display_url": "arxiv.org/pdf/1905.07854…",
+            "indices": [
+              226,
+              249
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253071174155882500,
+      "in_reply_to_status_id_str": "1253071174155882505",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 23 10:30:21 +0000 2020",
+      "id": 1253269975130935300,
+      "id_str": "1253269975130935298",
+      "full_text": "За наводки на статьи спасибо @nm_tismoney !",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        43
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nm_tismoney",
+            "name": "Nikita Mokrov",
+            "id": 2557293289,
+            "id_str": "2557293289",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253072325248987100,
+      "in_reply_to_status_id_str": "1253072325248987137",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 23 15:44:37 +0000 2020",
+      "id": 1253349061467549700,
+      "id_str": "1253349061467549696",
+      "full_text": "4. Reinforecement Learning в рекомендательных системах\n\nТема большая, интересная и интригующая - поехали.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        105
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 23 15:46:01 +0000 2020",
+      "id": 1253349414577504300,
+      "id_str": "1253349414577504256",
+      "full_text": "Начнём с многоруких бандитов. Это ветка в RL, в которой агент должен найти оптимальное действие (\"руку\") среди предложенных. Конструкция простая и эффективная, часто применяется в индустрии.\nПоподробнее про них тут:\nhttps://t.co/J3nLWg3n95",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J3nLWg3n95",
+            "expanded_url": "https://youtu.be/4vsbzo-zmhQ",
+            "display_url": "youtu.be/4vsbzo-zmhQ",
+            "indices": [
+              216,
+              239
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253349061467549700,
+      "in_reply_to_status_id_str": "1253349061467549696",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 23 15:46:32 +0000 2020",
+      "id": 1253349544588456000,
+      "id_str": "1253349544588455936",
+      "full_text": "Рекомендательные системы - не исключение. Оптимизируемым действием, может быть, например, \"какой товар показать в баннере\", \"каким цветом покрасить кнопку Купить\", \"какую картинку товара показать в превью\". Вот, NetFlix оптимизирует обложки:\nhttps://t.co/UDlkK8AuQo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UDlkK8AuQo",
+            "expanded_url": "https://www.slideshare.net/JayaKawale/a-multiarmed-bandit-framework-for-recommendations-at-netflix",
+            "display_url": "slideshare.net/JayaKawale/a-m…",
+            "indices": [
+              242,
+              265
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253349414577504300,
+      "in_reply_to_status_id_str": "1253349414577504256",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 23 21:55:43 +0000 2020",
+      "id": 1253442453195104300,
+      "id_str": "1253442453195104256",
+      "full_text": "Это ещё не все по RL в рекомендашках. Завтра будет ещё пачка твитов и ссылок на статьи.\n\nStay tuned!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 15:27:28 +0000 2020",
+      "id": 1253707136363909000,
+      "id_str": "1253707136363909120",
+      "full_text": "@tumikosha Про применения RL в складской оптимизации я не слышал (да и вообще RL медленно в практику идёт)\n\nПоиск статей показывает, что кто-то пытался подходить к задаче с теоретической стороны (например https://t.co/xV7KdmxbGZ) , но каких-то успешных реальных кейсов не нашел.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tumikosha",
+            "name": "tumikosha",
+            "id": 17211858,
+            "id_str": "17211858",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xV7KdmxbGZ",
+            "expanded_url": "https://s3.amazonaws.com/academia.edu.documents/51273227/s0925-5273_2800_2900156-020170109-28121-iv461j.pdf?response-content-disposition=inline%3B%20filename%3DInventory_management_in_supply_chains_a.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BAAJZHR4BD%2F20200424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200424T152105Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEE8aCXVzLWVhc3QtMSJHMEUCIQCzC98tmTJ7hzw%2BWJzQrLGkSqaw6J6FoWTbfgPAmGasPgIgUfyGZCjsTwkEKizarkpvv6wnRJtrQJ5ntAzPVVrOCm8qtAMIeBAAGgwyNTAzMTg4MTEyMDAiDBfvC8jI5jpV4IWxtyqRAxzr%2BCtVP%2FwIUOkQ57zcw3p4LxbSAUVVwZMvefX%2BoXE7WJ2csXyre0LxYJDOFOl%2BSSD%2FazXJ7yaXHPPzMb1f4iJLW444eNZ8UN07jSlY6XcWu9hDAwrW4%2BLdp1m3zsMqK5jbgIKcn24P%2FQZxFc69%2FjlsjOiegi1XrkZEkzHul46CTwwf9Ywsu5iYuAnrMiXMaqTvIvHdlxRf5DS1fVYCja1M1YlXuR2jQkw9jEZMM436mE%2FWoe84de3hojy88N3lR9IHuALNJa3gqgSK2nAfuziu8D0D8JcQuNX1P3h7DXR20G0MTn1Kv3Ofc11xZ4yKxXft9eLhkHZ5jYbUA4labniqOSmA%2B1troT7Snl9twpWvxEKKyAesfk1lpbXJQdNAgFJpYiqRp11berZnKAyIbNjE71Xv5Fe0rfB0jJOPKbNQtoC07Q638m4E4m%2FRwqK0BwirPyifyv5jrdtOULgc7%2BFtwGN%2BhDkU7sinahUsPBi2lzNytd9GsGnSdTNPae3NqntSJ%2FxtO3W%2BEW3ILHVrZ%2F0ZMNvsi%2FUFOusBzeML0diQlWLK7QTaZjmbiT20FQIrxz48mJv3brbYYa44UHSn%2FYNugec%2BRzXwtKytnNS1JrncZobz1ewoVzqacQVMkmzCN%2Bg9otnlxkXfQGBOcs%2F0aVOGr%2FvKgWO6X%2FNoBYxXysl40cMJSmkhrwFVJ5UvVt2pz3AUgI3EZtxquDLSlfWGVOPoSx6cQhve7i4GhjTS2xl5kBNUskziftLdhQS6lWO3Sn0eBVRfRnKvyYEXcuDoVs2x%2BZmxscDs3EjkYkj%2BaDXlM1gR%2BhtgnU17i9HGFzRwXLh5wKHm1Cl1%2B8VcVJxfGnuF%2BOBsdA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=d3a25f752998ce47dac67327d40d48f71f605b892dbc2bc02256a180ba2e816e_",
+            "display_url": "s3.amazonaws.com/academia.edu.d…",
+            "indices": [
+              205,
+              228
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253641456897720300,
+      "in_reply_to_status_id_str": "1253641456897720320",
+      "in_reply_to_user_id": 17211858,
+      "in_reply_to_user_id_str": "17211858",
+      "in_reply_to_screen_name": "tumikosha",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 15:58:01 +0000 2020",
+      "id": 1253714823017357300,
+      "id_str": "1253714823017357314",
+      "full_text": "Также, multi-armed bandits являются хорошей заменой традиционным А/Б тестам. Ценой несложной инженерии мы получаем ускорение сходимости тестов.\nhttps://t.co/7Ns4s88M7t",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        167
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7Ns4s88M7t",
+            "expanded_url": "https://towardsdatascience.com/beyond-a-b-testing-multi-armed-bandit-experiments-1493f709f804",
+            "display_url": "towardsdatascience.com/beyond-a-b-tes…",
+            "indices": [
+              144,
+              167
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253349544588456000,
+      "in_reply_to_status_id_str": "1253349544588455936",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 16:38:17 +0000 2020",
+      "id": 1253724955935740000,
+      "id_str": "1253724955935739906",
+      "full_text": "Многорукие бандиты известны давно. Популярный Thompson Sampling, был сделан аж в 1933м году. Тогда задача считалась столь сложной и бесполезной, что во время Второй Мировой были жалобы, что учёные зря на неё отвлекаются\n\nВозвращаясь в текущие дни - что же есть интересного сейчас?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253714823017357300,
+      "in_reply_to_status_id_str": "1253714823017357314",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 16:42:25 +0000 2020",
+      "id": 1253725996886433800,
+      "id_str": "1253725996886433793",
+      "full_text": "Одна из статей, где \"настоящий\" RL прикручивается к рекомендашкам датируется 2007 годом. Тут \"состояние\" - последние просмотренные страницы пользователя, а действия агента - предложение пользователю посетить какую-то страницу. Агент максимизирует клики.\n\nhttps://t.co/JlJJSKQjf8",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JlJJSKQjf8",
+            "expanded_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9640&rep=rep1&type=pdf",
+            "display_url": "citeseerx.ist.psu.edu/viewdoc/downlo…",
+            "indices": [
+              255,
+              278
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253724955935740000,
+      "in_reply_to_status_id_str": "1253724955935739906",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 17:05:08 +0000 2020",
+      "id": 1253731713169186800,
+      "id_str": "1253731713169186816",
+      "full_text": "Отличная статья 2018 года. Авторы предлагают DEERS. Ключевые отличия от статьи выше - глубокая сетка вместо простой формулы для моделирования награды, и использование негативного фидбека (игнорирование пользователем рекомендации) \nhttps://t.co/vpuOyiTOXI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vpuOyiTOXI",
+            "expanded_url": "https://arxiv.org/pdf/1802.06501.pdf",
+            "display_url": "arxiv.org/pdf/1802.06501…",
+            "indices": [
+              231,
+              254
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1253725996886433800,
+      "in_reply_to_status_id_str": "1253725996886433793",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 20:23:00 +0000 2020",
+      "id": 1253781509242335200,
+      "id_str": "1253781509242335232",
+      "full_text": "А в этой совсем свежей (опубликованы на AAAI'2020) статье используется RNN для кодирования последовательности объектов в сессии, и подключается информация о контексте запроса:\nhttps://t.co/2MGVh7TBBb",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2MGVh7TBBb",
+            "expanded_url": "https://arxiv.org/abs/1909.03602",
+            "display_url": "arxiv.org/abs/1909.03602",
+            "indices": [
+              176,
+              199
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253731713169186800,
+      "in_reply_to_status_id_str": "1253731713169186816",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 20:33:31 +0000 2020",
+      "id": 1253784157530075100,
+      "id_str": "1253784157530075136",
+      "full_text": "В чём загвоздка, если всё так хорошо, почему оно не едет в прод?\nОтвет простой: для оценки качества работы используют \"симулятор\" и синтетические данные, и \n&gt;The simulator has the similar architecture with DEERS (самой моделькой)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253781509242335200,
+      "in_reply_to_status_id_str": "1253781509242335232",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 20:37:17 +0000 2020",
+      "id": 1253785105178472400,
+      "id_str": "1253785105178472449",
+      "full_text": "Естественно, если генератор и моделька совпадают по форме, то моделька в итоге выучится. Но нет никаких гарантий, что этот моделька будет хорошим приближением того, что происходит в головах пользователей.\n\nЭксперименты с реальными пользователями пока не наблюдаются.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253784157530075100,
+      "in_reply_to_status_id_str": "1253784157530075136",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 20:43:11 +0000 2020",
+      "id": 1253786587315548200,
+      "id_str": "1253786587315548160",
+      "full_text": "Касательно фреймворков оценки. Два стула:\n\nОт Criteo:\nhttps://t.co/xYVgDya3vK\nно в нём поддерживается только симуляция.\n\nВот описание от Самсунга системы, которая не обладает этим недостатком\nhttps://t.co/dgGR4aBCyr\nно, похоже, это закрытая разработка, и потрогать её не получится",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xYVgDya3vK",
+            "expanded_url": "https://github.com/criteo-research/reco-gym",
+            "display_url": "github.com/criteo-researc…",
+            "indices": [
+              54,
+              77
+            ]
+          },
+          {
+            "url": "https://t.co/dgGR4aBCyr",
+            "expanded_url": "https://www.insight-centre.org/sites/default/files/publications/pyrecgym-_a_reinforcement_learning_gym_for_recommender_systems.pdf",
+            "display_url": "insight-centre.org/sites/default/…",
+            "indices": [
+              192,
+              215
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253785105178472400,
+      "in_reply_to_status_id_str": "1253785105178472449",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 24 20:59:31 +0000 2020",
+      "id": 1253790699033673700,
+      "id_str": "1253790699033673731",
+      "full_text": "Подытоживая:\n- Сейчас есть интересные статьи с нейронками\n- Evaluation пока на симулированных данных\n- Сама область перспективная; на практике оптимизировать отложенный сигнал нужно, и RL поможет решить вопросы типа \"accuracy vs diversity\".",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253786587315548200,
+      "in_reply_to_status_id_str": "1253786587315548160",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 10:35:48 +0000 2020",
+      "id": 1253996122600865800,
+      "id_str": "1253996122600865792",
+      "full_text": "5. Продуктивность и планирование\n\nМоя любимая тема, иногда я шучу, что это моё хобби: время, которое я потратил на чтение статьей и лекций вряд ли отобьется этим увеличением эффективности :)\n\nПоехали. Как у вас ведётся список задач?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 10:36:43 +0000 2020",
+      "id": 1253996352205398000,
+      "id_str": "1253996352205398017",
+      "full_text": "Почти все прочитанные мной книги примерно про одно: все мы предпочитаем известное перед неизвестным, простое перед сложным, и бездействие перед действием; наша память ненадёжна, а мозг нерационален.\n\nПоэтому система записи задач должна быть, причём максимально простой и понятной.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253996122600865800,
+      "in_reply_to_status_id_str": "1253996122600865792",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 10:38:51 +0000 2020",
+      "id": 1253996890141622300,
+      "id_str": "1253996890141622272",
+      "full_text": "Так, мы можем прямо сейчас сесть и задаться вопросом: \"Что я могу сделать в ближайшие полчаса?\", и составить список. Из него выбрать пункт, и пойти работать над ним на полчаса. Через полчаса обновить список и повторить процедуру.\n\nЭто техника Помодоро, рекомендую всем попробовать",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253996352205398000,
+      "in_reply_to_status_id_str": "1253996352205398017",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 10:41:24 +0000 2020",
+      "id": 1253997533648560000,
+      "id_str": "1253997533648560128",
+      "full_text": "Pomodoro прост и эффективен. А для более интересных штук и рекомендую две книжки:\n\n\"Getting Things Done\" - пускай она ориентирована на управленцев с бумажным ежедневником, но приёмы применимы ко всем.\n\n\"Джедайские техники\"  - короткая и понятная компиляция работающих принципов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253996890141622300,
+      "in_reply_to_status_id_str": "1253996890141622272",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 10:41:52 +0000 2020",
+      "id": 1253997650992652300,
+      "id_str": "1253997650992652288",
+      "full_text": "Что я почерпнул из этих книжек (1/2):\n- отделите \"инбокс\" от списка задач. В первый задачи попадают СРАЗУ после возникновения, во вторую - после формулировки\n- сформулированная задача отвечать на вопрос \"какое КОНКРЕТНОЕ следующее действие надо сделать\"",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253997533648560000,
+      "in_reply_to_status_id_str": "1253997533648560128",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 10:43:10 +0000 2020",
+      "id": 1253997977015812000,
+      "id_str": "1253997977015812096",
+      "full_text": "(2/2):\nт.е. \"Сделать фичу Х\" - не ок; \"Написать менеджеру просьбу уточнить требования для Х\" - ок\n\n- все задачи должны быть в одной системе; должны быть дедлайны \n- не надо строить сложных иерархий задач\n- имеет смысл завести отдельную свалку \"долгосрочные идеи\"",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253997650992652300,
+      "in_reply_to_status_id_str": "1253997650992652288",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:05:37 +0000 2020",
+      "id": 1254381115047055400,
+      "id_str": "1254381115047055360",
+      "full_text": "6. Академия, инженерия, менеджмент.\n\nДавайте сегодня поговорим про карьеростроение.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:06:30 +0000 2020",
+      "id": 1254381337290707000,
+      "id_str": "1254381337290706946",
+      "full_text": "Инженерю я давно. С бизнесом тоже знаком - родившаяся на хакатоне идея превратилась в реальный продукт (AnyQuery). Мой индекс Хирша сейчас 3 - что куцо для учёного, но неплохо для инженера.\n\nТак что я видел DS с разных сторон баррикад. Поделюсь впечатлениями.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254381115047055400,
+      "in_reply_to_status_id_str": "1254381115047055360",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:07:23 +0000 2020",
+      "id": 1254381558376673300,
+      "id_str": "1254381558376673283",
+      "full_text": "Иногда в DS этот вопрос ставится как \"академия vs индустрия\".\n\nЗаниматься исследованиями - для крепких нервами альтруистов, второй вариант проще и понятнее, и люди часто перетекают из первого (и крайне редко - обратно).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254381337290707000,
+      "in_reply_to_status_id_str": "1254381337290706946",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:08:51 +0000 2020",
+      "id": 1254381928993771500,
+      "id_str": "1254381928993771522",
+      "full_text": "Академия: есть возможность писать пейперы в интересной тебе области. Минусы - процесс практически безвозмездный, трудоёмкий и крайне медленный; везде одни и те же люди и мало движухи.\n\nА тем, что ты сделал, будет интересоваться два человека в мире (причём оба - из Индии). https://t.co/djZZJf4SXR",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1254381728388591600,
+            "id_str": "1254381728388591616",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWh1iTVXsAATK0i.png",
+            "media_url_https": "https://pbs.twimg.com/media/EWh1iTVXsAATK0i.png",
+            "url": "https://t.co/djZZJf4SXR",
+            "display_url": "pic.twitter.com/djZZJf4SXR",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1254381928993771522/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 369,
+                "h": 304,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 369,
+                "h": 304,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 369,
+                "h": 304,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1254381728388591600,
+            "id_str": "1254381728388591616",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWh1iTVXsAATK0i.png",
+            "media_url_https": "https://pbs.twimg.com/media/EWh1iTVXsAATK0i.png",
+            "url": "https://t.co/djZZJf4SXR",
+            "display_url": "pic.twitter.com/djZZJf4SXR",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1254381928993771522/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 369,
+                "h": 304,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 369,
+                "h": 304,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 369,
+                "h": 304,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254381558376673300,
+      "in_reply_to_status_id_str": "1254381558376673283",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:13:34 +0000 2020",
+      "id": 1254383114052386800,
+      "id_str": "1254383114052386817",
+      "full_text": "Индустрия: понятная карьерная лестница; больший выбор мест работы; но при этом много где задачи сводятся к написанию SQL запросов для трансформации JSON-ин и генерации фичей, которые дальше скармливаются готовому xgboost.\n\nНо, хэй, зато хорошо платят https://t.co/5td78Qai2f",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1254382915221360600,
+            "id_str": "1254382915221360646",
+            "indices": [
+              251,
+              274
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWh2nYoWkAYhEdQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/EWh2nYoWkAYhEdQ.png",
+            "url": "https://t.co/5td78Qai2f",
+            "display_url": "pic.twitter.com/5td78Qai2f",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1254383114052386817/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 825,
+                "h": 619,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 825,
+                "h": 619,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1254382915221360600,
+            "id_str": "1254382915221360646",
+            "indices": [
+              251,
+              274
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWh2nYoWkAYhEdQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/EWh2nYoWkAYhEdQ.png",
+            "url": "https://t.co/5td78Qai2f",
+            "display_url": "pic.twitter.com/5td78Qai2f",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1254383114052386817/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 825,
+                "h": 619,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 825,
+                "h": 619,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254381928993771500,
+      "in_reply_to_status_id_str": "1254381928993771522",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:16:43 +0000 2020",
+      "id": 1254383909233741800,
+      "id_str": "1254383909233741827",
+      "full_text": "(1/2) Второй часто возникающий вопрос - \"менеджмент vs инженерия - куда лучше расти\". На мой вкус, это не удачная дихотомия карьеры.\n\nПо мере того, как ты растёшь как инженер, будет расти и зона твоей ответственности. Но большая зона ответственности требует работы с ...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254383114052386800,
+      "in_reply_to_status_id_str": "1254383114052386817",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:17:37 +0000 2020",
+      "id": 1254384134232903700,
+      "id_str": "1254384134232903681",
+      "full_text": "(2/2) ... более абстрактными требованиями, делегирование и более долгосрочное планирование, а эти навыки относят к \"менеджерской\".\n\nА продукт-менеджеры мне часто говорили, что им важно видеть особенности технической реализации, чтобы понимать ограничения и возможные препятствия.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254383909233741800,
+      "in_reply_to_status_id_str": "1254383909233741827",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:20:04 +0000 2020",
+      "id": 1254384752293019600,
+      "id_str": "1254384752293019648",
+      "full_text": "Вот более удачное разделение карьеры на ветки есть видео от Алексея Натекина\nhttps://t.co/LMo20tn3fK\nи моё развитие темы\nhttps://t.co/VJ9PTCGGzf",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LMo20tn3fK",
+            "expanded_url": "https://www.youtube.com/watch?v=lDkTNURDIaY&feature=emb_title",
+            "display_url": "youtube.com/watch?v=lDkTNU…",
+            "indices": [
+              77,
+              100
+            ]
+          },
+          {
+            "url": "https://t.co/VJ9PTCGGzf",
+            "expanded_url": "https://youtu.be/x66OhRAHHok?t=109",
+            "display_url": "youtu.be/x66OhRAHHok?t=…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254384134232903700,
+      "in_reply_to_status_id_str": "1254384134232903681",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:20:23 +0000 2020",
+      "id": 1254384829220651000,
+      "id_str": "1254384829220651010",
+      "full_text": "Вкратце - есть три дерева скиллов, \"доменные знания\", \"рисёрч\" и \"инженерия\". Стоит сделать упор на каком-то одном скилле в одной ветке; но также иметь базовые навыки в остальных, иначе это станет ограничивающим фактором (см. T-shaped people).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254384752293019600,
+      "in_reply_to_status_id_str": "1254384752293019648",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:45:07 +0000 2020",
+      "id": 1254391056168358000,
+      "id_str": "1254391056168357888",
+      "full_text": "На закуску - список литературы: https://t.co/shMC2Pugwp",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1254390831940874200,
+            "id_str": "1254390831940874240",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWh90MtXsAAweYH.png",
+            "media_url_https": "https://pbs.twimg.com/media/EWh90MtXsAAweYH.png",
+            "url": "https://t.co/shMC2Pugwp",
+            "display_url": "pic.twitter.com/shMC2Pugwp",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1254391056168357888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 449,
+                "h": 375,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 449,
+                "h": 375,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 449,
+                "h": 375,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1254390831940874200,
+            "id_str": "1254390831940874240",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWh90MtXsAAweYH.png",
+            "media_url_https": "https://pbs.twimg.com/media/EWh90MtXsAAweYH.png",
+            "url": "https://t.co/shMC2Pugwp",
+            "display_url": "pic.twitter.com/shMC2Pugwp",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1254391056168357888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 449,
+                "h": 375,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 449,
+                "h": 375,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 449,
+                "h": 375,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254384829220651000,
+      "in_reply_to_status_id_str": "1254384829220651010",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sun Apr 26 12:45:41 +0000 2020",
+      "id": 1254391195230449700,
+      "id_str": "1254391195230449664",
+      "full_text": "\"Следующий уровень\"\nЭта небольшая книжка описывает вертикальную карьерную лестницу, и поможет тем, кто достиг своего потолка. (Спойлер - вместо того, чтобы делать продукты - обрастать знакомствами, и скейлиться - делать системы, которые делают продукты).\nhttps://t.co/wJUMw3V1nA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wJUMw3V1nA",
+            "expanded_url": "https://www.labirint.ru/books/511445/",
+            "display_url": "labirint.ru/books/511445/",
+            "indices": [
+              255,
+              278
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254391056168358000,
+      "in_reply_to_status_id_str": "1254391056168357888",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:51:53 +0000 2020",
+      "id": 1254392757071814700,
+      "id_str": "1254392757071814658",
+      "full_text": "Не могу посоветовать книжку \"45 татуировок менеджера\", сборник кулстори управленца. Учатся на ошибках, а когда они чужие, то это можно делать безболезненно.\nhttps://t.co/0MaMQ1o44m",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0MaMQ1o44m",
+            "expanded_url": "https://www.mann-ivanov-ferber.ru/books/paperbook/tattoos/",
+            "display_url": "mann-ivanov-ferber.ru/books/paperboo…",
+            "indices": [
+              157,
+              180
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254391195230449700,
+      "in_reply_to_status_id_str": "1254391195230449664",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 12:53:08 +0000 2020",
+      "id": 1254393072915447800,
+      "id_str": "1254393072915447810",
+      "full_text": "По поводу карьеры целиком мне недавно умные люди посоветовали \"StandOut 2.0\", но я её пока ещё не осилил, поэтому прокомментировать не могу. Но навскидку - прикольная штука.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254392757071814700,
+      "in_reply_to_status_id_str": "1254392757071814658",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 13:09:47 +0000 2020",
+      "id": 1254397262714806300,
+      "id_str": "1254397262714806273",
+      "full_text": "Про Kaggle. Выскажу ещё одно непопулярное мнение - он не эффективен для \"набивания\" резюме.\n\nДля меня как собеседующего \"занял 50е место в контесте\" выглядит не так интересно, как проект, где была самостоятельно поставлена задача, собран датасет и натренирована моделька.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254393072915447800,
+      "in_reply_to_status_id_str": "1254393072915447810",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 13:13:19 +0000 2020",
+      "id": 1254398149906567200,
+      "id_str": "1254398149906567170",
+      "full_text": "Kaggle относится к индустриальному DS примерно так же, как олимпиадное программирование к работе в компаниях.\n\nМесто в соревнованиях простая и понятная мерка; но, жаль, она мерит не то.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254397262714806300,
+      "in_reply_to_status_id_str": "1254397262714806273",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 13:21:06 +0000 2020",
+      "id": 1254400109632241700,
+      "id_str": "1254400109632241665",
+      "full_text": "@dmitrybalabka Да, хорошее замечание.\n\nЛично я не занимался, но наблюдал со стороны. Ниша исследований в индустрии тоже есть; но она небольшая по сравнению с академией и индустрией. \n\nФинансируются чуть лучше, но направления исследований диктуются интересами компании.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitrybalabka",
+            "name": "Dmitry Balabka",
+            "id": 130283847,
+            "id_str": "130283847",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254394708790517800,
+      "in_reply_to_status_id_str": "1254394708790517762",
+      "in_reply_to_user_id": 130283847,
+      "in_reply_to_user_id_str": "130283847",
+      "in_reply_to_screen_name": "dmitrybalabka",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 13:21:15 +0000 2020",
+      "id": 1254400146999316500,
+      "id_str": "1254400146999316480",
+      "full_text": "@dmitrybalabka Можно сказать, что это вариант - что-то среднее между двумя стульями :)",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dmitrybalabka",
+            "name": "Dmitry Balabka",
+            "id": 130283847,
+            "id_str": "130283847",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254400109632241700,
+      "in_reply_to_status_id_str": "1254400109632241665",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 13:27:48 +0000 2020",
+      "id": 1254401797101432800,
+      "id_str": "1254401797101432833",
+      "full_text": "Вот и всё - моя смена подходит к концу.\n\nМне понравился опыт ведения Твиттера, и я планирую продолжать.\n\nЯ стратегично упустил тему инструментов ведения задач, напишу про это. Ну и буду постить про продуктивность, рекомендашки и DS в целом.\n\nПодписывайтесь на @rampeer :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rampeer",
+            "name": "rampeer",
+            "id": 1102592786040262700,
+            "id_str": "1102592786040262656",
+            "indices": [
+              260,
+              268
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

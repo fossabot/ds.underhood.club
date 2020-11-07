@@ -1,0 +1,119 @@
+{
+  "id": 1231564770249203700,
+  "id_str": "1231564770249203715",
+  "name": "Data Scientist",
+  "screen_name": "dsunderhood",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный твиттер DS (инженеров, разработчиков, аналитиков). \n\nCтать автором: https://t.co/GWMQNYi73O\n\nАвтор недели – Андрей Васнецов / @generall931",
+  "url": "https://t.co/DHjQJl2OAQ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/DHjQJl2OAQ",
+          "expanded_url": "https://dsunderhood.github.io/",
+          "display_url": "dsunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/GWMQNYi73O",
+          "expanded_url": "http://dsunderhood.github.io/authoring",
+          "display_url": "dsunderhood.github.io/authoring",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1362,
+  "friends_count": 15,
+  "listed_count": 16,
+  "created_at": "Sun Feb 23 13:02:17 +0000 2020",
+  "favourites_count": 223,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2003,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Jun 07 17:25:09 +0000 2020",
+    "id": 1269681816702763000,
+    "id_str": "1269681816702763009",
+    "text": "Про pet-project с векторным поиском https://t.co/p5bFEyKM2e",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/p5bFEyKM2e",
+          "expanded_url": "https://twitter.com/dsunderhood/status/1269592903149649921",
+          "display_url": "twitter.com/dsunderhood/st…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1269681815008280600,
+    "in_reply_to_status_id_str": "1269681815008280577",
+    "in_reply_to_user_id": 1231564770249203700,
+    "in_reply_to_user_id_str": "1231564770249203715",
+    "in_reply_to_screen_name": "dsunderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1269592903149650000,
+    "quoted_status_id_str": "1269592903149649921",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1268201617901395970/NE-DvXGo_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268201617901395970/NE-DvXGo_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231564770249203715/1591003027",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}

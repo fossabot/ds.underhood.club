@@ -1,0 +1,58 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Nov 02 07:22:53 +0000 2020",
+      "id": 1323163657191235600,
+      "id_str": "1323163657191235584",
+      "text": "Спасибо всем, кто меня читал на прошлой неделе, а также @tiulpin за приглашение! Надеюсь кому-то было интересно! С… https://t.co/dJPLuBpy6H",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              56,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dJPLuBpy6H",
+            "expanded_url": "https://twitter.com/i/web/status/1323163657191235584",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

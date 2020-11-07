@@ -1,0 +1,3337 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon May 25 08:43:14 +0000 2020",
+      "id": 1264839430398972000,
+      "id_str": "1264839430398971908",
+      "full_text": "Всем привет на этой неделе я Александр Нотченко (мой основной аккаунт @gang1man ) буду рулить этой лодкой. Если вы участвуете в DS/ML/AI движухе то возможно вы меня уже знаете.\nЩас я расскажу чем вообще занимаюсь по пунктам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Gang1man",
+            "name": "Alexandr Notchenko",
+            "id": 178537877,
+            "id_str": "178537877",
+            "indices": [
+              70,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 08:45:04 +0000 2020",
+      "id": 1264839891843760000,
+      "id_str": "1264839891843760128",
+      "full_text": "1/? я на 4-м году PhD программы сколтеха, делаю диссер про 3D реконструкцию и анализ сцен с помощью нейросетей, вероятностных методов и многих других методов из ML, и CS.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264839430398972000,
+      "in_reply_to_status_id_str": "1264839430398971908",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 08:46:58 +0000 2020",
+      "id": 1264840371420487700,
+      "id_str": "1264840371420487681",
+      "full_text": "2/? С 2015-го года  организую мероприятия в @odsai_en , тогда у меня было свое сообщество про DS/ML, называлось MIDSM (Moscow Independent Data Science Meetup), Independent потому что мне тогда казалось что все митапы были очень рекламные от корпораций.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "odsai_en",
+            "name": "ODSai_en",
+            "id": 888205758311145500,
+            "id_str": "888205758311145472",
+            "indices": [
+              44,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264839891843760000,
+      "in_reply_to_status_id_str": "1264839891843760128",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 08:52:20 +0000 2020",
+      "id": 1264841721894056000,
+      "id_str": "1264841721894055938",
+      "full_text": "3/? У нас был https://t.co/oP8ZHwPtO5 и свой слак с сотнями людей. Когда я познакомился с Лёшей Натекиным, было достигнуто молчаливое согласие что нужно объединятся. Я закрыл все аккаунты и попросил всех перейти в ОДС. Многие другие группы/митапы/сообщества к нам присоеденились.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oP8ZHwPtO5",
+            "expanded_url": "http://meetup.com",
+            "display_url": "meetup.com",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264840371420487700,
+      "in_reply_to_status_id_str": "1264840371420487681",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 08:58:48 +0000 2020",
+      "id": 1264843350206754800,
+      "id_str": "1264843350206754816",
+      "full_text": "4/? Для ODS я организую Data Science завтраки в Москве, уже 5 лет, каждую неделю по средам (за все время пропустил наверное мероприятий 30), сейчас их проводим в зуме в тоже время как и обычно. \nЭти мероприятия дали мне очень много опыта о отрасли и людях которые в ней работают.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264841721894056000,
+      "in_reply_to_status_id_str": "1264841721894055938",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 09:18:13 +0000 2020",
+      "id": 1264848233085444000,
+      "id_str": "1264848233085444101",
+      "full_text": "5/? Также я иногда выступаю как спикер, или MC на мероприятиях ОДС (есть видимо жажда сцены какая то). \nИ веду изредка ODS Introspect хакатоны, которые теперь больше как часть Pet projects инициативы и личные исследования ребят из ODS.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264843350206754800,
+      "in_reply_to_status_id_str": "1264843350206754816",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 09:23:49 +0000 2020",
+      "id": 1264849641864138800,
+      "id_str": "1264849641864138752",
+      "full_text": "6/? Я в DS/ML отрасли с курса 2-го Бауманки, уже ~11 лет. \nСвой накопившийся опыт я также предоставляю на продажу в виде консультаций с почасовой ставкой, если у вас есть проблема в этой отрасли, я могу помочь, техническими решениями и опытом людей которые были в такой ситуации.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264848233085444000,
+      "in_reply_to_status_id_str": "1264848233085444101",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 09:28:00 +0000 2020",
+      "id": 1264850698610659300,
+      "id_str": "1264850698610659331",
+      "full_text": "Сейчас я вместе с нашей группой в сколтехе готовим статью на NeurIPS (дедлайн очень скоро) поэтому времени свободного не так много, но я найду его, что бы написать суда самые сочные истории и сплетни 😏.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 09:28:29 +0000 2020",
+      "id": 1264850817410044000,
+      "id_str": "1264850817410043905",
+      "full_text": "Если хотите обсудить любые вопросы связанные с чем угодно в отрасли или снаружи ее, напишите мне под этим сообщением, я отвечу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 10:15:01 +0000 2020",
+      "id": 1264862530264064000,
+      "id_str": "1264862530264064001",
+      "full_text": "@datasci02623223 Лекала есть конечно, в виде комбинаций открытых продуктов. Они не во всех свойствах могу сравниться с продуктом гиганта Амазона, но для своих целей годятся, стоит посмотреть что делает zyfra, и ODS проект ebonite.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "datasci02623223",
+            "name": "Мамкин датасаентист",
+            "id": 1262705898637742000,
+            "id_str": "1262705898637742081",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264852580674437000,
+      "in_reply_to_status_id_str": "1264852580674437121",
+      "in_reply_to_user_id": 1262705898637742000,
+      "in_reply_to_user_id_str": "1262705898637742081",
+      "in_reply_to_screen_name": "datasci02623223",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 10:26:51 +0000 2020",
+      "id": 1264865508123463700,
+      "id_str": "1264865508123463681",
+      "full_text": "@yavi_yavi_yavi DS это огромный зонтик под которым много специальностей спрятано, и такие специалисты всегда нужно, любой бизнес оперирует на информации и ценность из нее извлекают аналитики как раз. \nDS - никогда не устареет, это эмпиризм в IT форме.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "yavi_yavi_yavi",
+            "name": "yavi",
+            "id": 146591679,
+            "id_str": "146591679",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264855936532963300,
+      "in_reply_to_status_id_str": "1264855936532963329",
+      "in_reply_to_user_id": 146591679,
+      "in_reply_to_user_id_str": "146591679",
+      "in_reply_to_screen_name": "yavi_yavi_yavi",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 10:48:37 +0000 2020",
+      "id": 1264870983124553700,
+      "id_str": "1264870983124553730",
+      "full_text": "@rzQZfqRQBGpxJu6 Не проходил intro курсы поэтому тяжело сказать. Наш ODS ML course open https://t.co/2wuvDkIA27 конечно стоит, потом начать с людьми общаться и делать реальные проекты вместе.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rzQZfqRQBGpxJu6",
+            "name": "Роман",
+            "id": 1217418354182455300,
+            "id_str": "1217418354182455296",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2wuvDkIA27",
+            "expanded_url": "https://mlcourse.ai/",
+            "display_url": "mlcourse.ai",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264857098841718800,
+      "in_reply_to_status_id_str": "1264857098841718784",
+      "in_reply_to_user_id": 1217418354182455300,
+      "in_reply_to_user_id_str": "1217418354182455296",
+      "in_reply_to_screen_name": "rzQZfqRQBGpxJu6",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 11:25:51 +0000 2020",
+      "id": 1264880353149440000,
+      "id_str": "1264880353149440000",
+      "full_text": "Всем кто делает модели для предсказания чего либо, рекомендую распечатать и рядом с монитором повесить. Нельзя забывать базовые вещи, иначе ничего сложнее не построить. https://t.co/fzBRHsHdbv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fzBRHsHdbv",
+            "expanded_url": "https://twitter.com/MaartenvSmeden/status/1264513544697102336",
+            "display_url": "twitter.com/MaartenvSmeden…",
+            "indices": [
+              169,
+              192
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264513544697102300,
+      "quoted_status_id_str": "1264513544697102336",
+      "quoted_status_permalink": {
+        "url": "https://t.co/fzBRHsHdbv",
+        "expanded": "https://twitter.com/MaartenvSmeden/status/1264513544697102336",
+        "display": "twitter.com/MaartenvSmeden…"
+      },
+      "quoted_status": {
+        "created_at": "Sun May 24 11:08:17 +0000 2020",
+        "id": 1264513544697102300,
+        "id_str": "1264513544697102336",
+        "full_text": "Still consult this much more often than I like to admit\n\nhttps://t.co/FriHUqLgY5 https://t.co/svCWTX3twu",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/FriHUqLgY5",
+              "expanded_url": "https://en.wikipedia.org/wiki/Sensitivity_and_specificity",
+              "display_url": "en.wikipedia.org/wiki/Sensitivi…",
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1264513314043900000,
+              "id_str": "1264513314043899904",
+              "indices": [
+                81,
+                104
+              ],
+              "media_url": "http://pbs.twimg.com/media/EYx0KNFWsAADj9N.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EYx0KNFWsAADj9N.jpg",
+              "url": "https://t.co/svCWTX3twu",
+              "display_url": "pic.twitter.com/svCWTX3twu",
+              "expanded_url": "https://twitter.com/MaartenvSmeden/status/1264513544697102336/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1948,
+                  "h": 826,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 509,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 288,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1264513314043900000,
+              "id_str": "1264513314043899904",
+              "indices": [
+                81,
+                104
+              ],
+              "media_url": "http://pbs.twimg.com/media/EYx0KNFWsAADj9N.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EYx0KNFWsAADj9N.jpg",
+              "url": "https://t.co/svCWTX3twu",
+              "display_url": "pic.twitter.com/svCWTX3twu",
+              "expanded_url": "https://twitter.com/MaartenvSmeden/status/1264513544697102336/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1948,
+                  "h": 826,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 509,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 288,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 231008287,
+          "id_str": "231008287"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 195,
+        "favorite_count": 1140,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 21,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 13:19:08 +0000 2020",
+      "id": 1264908863985287200,
+      "id_str": "1264908863985287175",
+      "full_text": "Забыл ссылку добавить https://t.co/C4ekapBLyq . Разробатывают отличные люди в том числе Миша Свешников, очень талантливый инженер. https://t.co/Bb8JrYPmty",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        130
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/C4ekapBLyq",
+            "expanded_url": "https://github.com/zyfra/ebonite",
+            "display_url": "github.com/zyfra/ebonite",
+            "indices": [
+              22,
+              45
+            ]
+          },
+          {
+            "url": "https://t.co/Bb8JrYPmty",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1264862530264064001",
+            "display_url": "twitter.com/dsunderhood/st…",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264862530264064000,
+      "quoted_status_id_str": "1264862530264064001",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Bb8JrYPmty",
+        "expanded": "https://twitter.com/dsunderhood/status/1264862530264064001",
+        "display": "twitter.com/dsunderhood/st…"
+      },
+      "quoted_status": {
+        "created_at": "Mon May 25 10:15:01 +0000 2020",
+        "id": 1264862530264064000,
+        "id_str": "1264862530264064001",
+        "full_text": "@datasci02623223 Лекала есть конечно, в виде комбинаций открытых продуктов. Они не во всех свойствах могу сравниться с продуктом гиганта Амазона, но для своих целей годятся, стоит посмотреть что делает zyfra, и ODS проект ebonite.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          230
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "datasci02623223",
+              "name": "Мамкин датасаентист",
+              "id": 1262705898637742000,
+              "id_str": "1262705898637742081",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1264852580674437000,
+        "in_reply_to_status_id_str": "1264852580674437121",
+        "in_reply_to_user_id": 1262705898637742000,
+        "in_reply_to_user_id_str": "1262705898637742081",
+        "in_reply_to_screen_name": "datasci02623223",
+        "user": {
+          "id": 1231564770249203700,
+          "id_str": "1231564770249203715"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 14:26:28 +0000 2020",
+      "id": 1264925807945932800,
+      "id_str": "1264925807945932800",
+      "full_text": "@CaBa91280082 Каким алгоритмам?",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CaBa91280082",
+            "name": "CaBa",
+            "id": 1059708383077503000,
+            "id_str": "1059708383077502976",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264922563823767600,
+      "in_reply_to_status_id_str": "1264922563823767552",
+      "in_reply_to_user_id": 1059708383077503000,
+      "in_reply_to_user_id_str": "1059708383077502976",
+      "in_reply_to_screen_name": "CaBa91280082",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 14:44:18 +0000 2020",
+      "id": 1264930296694296600,
+      "id_str": "1264930296694296581",
+      "full_text": "Если вам интересно как в современном Deep Learning ресерче на PyTorch'е люди организуют код, могу предложить обзорный семинар моего авторства о фреймворке Pytorch Lightning. На русском других видео про этот инструмент нет. https://t.co/EgekAZgrQ3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EgekAZgrQ3",
+            "expanded_url": "https://twitter.com/Gang1man/status/1253928588719644673",
+            "display_url": "twitter.com/Gang1man/statu…",
+            "indices": [
+              223,
+              246
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1253928588719644700,
+      "quoted_status_id_str": "1253928588719644673",
+      "quoted_status_permalink": {
+        "url": "https://t.co/EgekAZgrQ3",
+        "expanded": "https://twitter.com/Gang1man/status/1253928588719644673",
+        "display": "twitter.com/Gang1man/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Apr 25 06:07:27 +0000 2020",
+        "id": 1253928588719644700,
+        "id_str": "1253928588719644673",
+        "full_text": "Uploaded a 30 minutes introduction video to Pytorch-lightning framework @PyTorchLightnin (it is in Russian). In my opinion the best framework for #PyTorch. It's brought back me the joy of coding when I was sick from using other peoples bad train loops 😤\nhttps://t.co/eW533psHNh",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          277
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "PyTorch",
+              "indices": [
+                146,
+                154
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "PyTorchLightnin",
+              "name": "PyTorchLightning",
+              "id": 1157283331509235700,
+              "id_str": "1157283331509235713",
+              "indices": [
+                72,
+                88
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/eW533psHNh",
+              "expanded_url": "https://youtu.be/17sN5ySlDx8",
+              "display_url": "youtu.be/17sN5ySlDx8",
+              "indices": [
+                254,
+                277
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 178537877,
+          "id_str": "178537877"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 20,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 17:33:20 +0000 2020",
+      "id": 1264972832699748400,
+      "id_str": "1264972832699748353",
+      "full_text": "@artsiom_s CDISE, в группе с Евгением Бурнаевым.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artsiom_s",
+            "name": "Artsiom Sanakoyeu",
+            "id": 807855012927995900,
+            "id_str": "807855012927995904",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1264946725032247300,
+      "in_reply_to_status_id_str": "1264946725032247302",
+      "in_reply_to_user_id": 807855012927995900,
+      "in_reply_to_user_id_str": "807855012927995904",
+      "in_reply_to_screen_name": "artsiom_s",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 17:35:51 +0000 2020",
+      "id": 1264973468199784400,
+      "id_str": "1264973468199784448",
+      "full_text": "Завтра постараюсь рассказать про тяжкую жизу аспиранта, как не повторять мои ошибки, и не свихнуться. Потому что делать PhD серьезный Work Hazzard для двинуться башкой.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 25 18:09:12 +0000 2020",
+      "id": 1264981861060788200,
+      "id_str": "1264981861060788224",
+      "full_text": "@artsiom_s Я не читал, можешь кинуть ссылку на твиты?",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artsiom_s",
+            "name": "Artsiom Sanakoyeu",
+            "id": 807855012927995900,
+            "id_str": "807855012927995904",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264975755118772200,
+      "in_reply_to_status_id_str": "1264975755118772225",
+      "in_reply_to_user_id": 807855012927995900,
+      "in_reply_to_user_id_str": "807855012927995904",
+      "in_reply_to_screen_name": "artsiom_s",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 13:03:04 +0000 2020",
+      "id": 1265267207157747700,
+      "id_str": "1265267207157747713",
+      "full_text": "Derp Learning https://t.co/Xi0swVYONF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        13
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1265266661516611600,
+            "id_str": "1265266661516611584",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/EY8hUzHXkAAm4ZH.png",
+            "media_url_https": "https://pbs.twimg.com/media/EY8hUzHXkAAm4ZH.png",
+            "url": "https://t.co/Xi0swVYONF",
+            "display_url": "pic.twitter.com/Xi0swVYONF",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1265267207157747713/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 533,
+                "h": 510,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 533,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 533,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1265266661516611600,
+            "id_str": "1265266661516611584",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/EY8hUzHXkAAm4ZH.png",
+            "media_url_https": "https://pbs.twimg.com/media/EY8hUzHXkAAm4ZH.png",
+            "url": "https://t.co/Xi0swVYONF",
+            "display_url": "pic.twitter.com/Xi0swVYONF",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1265267207157747713/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 533,
+                "h": 510,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 533,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 533,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue May 26 16:22:53 +0000 2020",
+      "id": 1265317491766636500,
+      "id_str": "1265317491766636547",
+      "full_text": "PyData from home PyDoma. Сейчас идет стрим. рекомендую к просмотру.\nhttps://t.co/NsUybQjKqH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NsUybQjKqH",
+            "expanded_url": "https://www.youtube.com/watch?v=xMl2mcZdgvo",
+            "display_url": "youtube.com/watch?v=xMl2mc…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 17:42:59 +0000 2020",
+      "id": 1265337653072998400,
+      "id_str": "1265337653072998401",
+      "full_text": "Моя рекомендация про аспирантуру (в ML/AI) - идите туда когда ничего другого делать не можете, или не хотите, это путь который рационален только для идеалистов или тех кто готов потратить очень много времени на издержки связанные с академией. Взвесьте все плюсы и минусы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 17:45:16 +0000 2020",
+      "id": 1265338227541540900,
+      "id_str": "1265338227541540866",
+      "full_text": "Если вы закончили магистратуру и хотите продолжить двигаться по \"академическим рельсам\" то вам не стоит идти в аспирантуру. \nЕсли вы хотите зарабатывать деньги на уровне свободного рынка - забудьте об этом. \nВажно иметь запасы самодисциплины, их вы будете сжигать годами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265337653072998400,
+      "in_reply_to_status_id_str": "1265337653072998401",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 17:46:46 +0000 2020",
+      "id": 1265338601509916700,
+      "id_str": "1265338601509916677",
+      "full_text": "Часто в академии люди не чувствуют важности того что они делают, потому что многие области очень абстрактны и не транслируются в прикладной результат сразу - это основной фактор приводящий к выгоранию и расстройствам психики. Очень редкие моменты градификации, и океан работы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265338227541540900,
+      "in_reply_to_status_id_str": "1265338227541540866",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 17:49:52 +0000 2020",
+      "id": 1265339384188096500,
+      "id_str": "1265339384188096516",
+      "full_text": "Аспирантура больше похожа на монашество, чем на работу или учебу, на учебе есть план и learning outcomes, это процесс с малой неопределенностью. Работа - задачи более приземлённые, горизонты планирования короткие, и можно бросить в любой момент, свобода и определенность.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265338601509916700,
+      "in_reply_to_status_id_str": "1265338601509916677",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 17:54:04 +0000 2020",
+      "id": 1265340439948923000,
+      "id_str": "1265340439948922882",
+      "full_text": "Ищите научные группы где кроме celebrity лидера группы есть support staff, это ассистент руководителя, постдоки, инжененеры, и фактические менторы которые будут с вами работать. Культура в группе тоже очень важна, всегда спрашивайте перед поступлением тех кто там уже работает.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265339384188096500,
+      "in_reply_to_status_id_str": "1265339384188096516",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 17:57:03 +0000 2020",
+      "id": 1265341190511251500,
+      "id_str": "1265341190511251456",
+      "full_text": "Очень важно не ненавидеть писать тексты, потому что академия это место которое генерирует множество текста как свой основной выход. Вам придется найти своего внутреннего Стивена Кинга что бы приуспеть. Писать статьи, переписывать статьи, заметки, отчеты, диссертации, слайды и.т.п",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265340439948923000,
+      "in_reply_to_status_id_str": "1265340439948922882",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue May 26 21:26:52 +0000 2020",
+      "id": 1265393994890174500,
+      "id_str": "1265393994890174470",
+      "full_text": "@datasci02623223 Часто гораздо эффективнее пойти сразу в эту индустрию и там работать, стаж нарабатываешь и повышаешь зарплату.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "datasci02623223",
+            "name": "Мамкин датасаентист",
+            "id": 1262705898637742000,
+            "id_str": "1262705898637742081",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265344763974344700,
+      "in_reply_to_status_id_str": "1265344763974344706",
+      "in_reply_to_user_id": 1262705898637742000,
+      "in_reply_to_user_id_str": "1262705898637742081",
+      "in_reply_to_screen_name": "datasci02623223",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 27 10:08:31 +0000 2020",
+      "id": 1265585666617942000,
+      "id_str": "1265585666617942017",
+      "full_text": "@fakemath Нужно слазить с рельс и подумать что ты хочешь сделать в жизни. Аспиранта не должны вводить в ступор вопросы: зачем тебе аспирантура, что ты собираешься делать после аспирантуры, как оно тебе поможет.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fakemath",
+            "name": "карельский бальзам",
+            "id": 44579678,
+            "id_str": "44579678",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265568486874628000,
+      "in_reply_to_status_id_str": "1265568486874628096",
+      "in_reply_to_user_id": 44579678,
+      "in_reply_to_user_id_str": "44579678",
+      "in_reply_to_screen_name": "fakemath",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed May 27 21:07:23 +0000 2020",
+      "id": 1265751476032299000,
+      "id_str": "1265751476032299013",
+      "full_text": "Вух, таймер вышел, дедлайн прошел, можно выдохнуть. статьи куда то отправлены, дела закончены, хотя бы на сегодня. Невероятное чувство облегяения.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 28 12:04:31 +0000 2020",
+      "id": 1265977246843617300,
+      "id_str": "1265977246843617281",
+      "full_text": "@artsiom_s Конференция ранее известная как нипс",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        47
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artsiom_s",
+            "name": "Artsiom Sanakoyeu",
+            "id": 807855012927995900,
+            "id_str": "807855012927995904",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265793604871741400,
+      "in_reply_to_status_id_str": "1265793604871741440",
+      "in_reply_to_user_id": 807855012927995900,
+      "in_reply_to_user_id_str": "807855012927995904",
+      "in_reply_to_screen_name": "artsiom_s",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 28 22:27:22 +0000 2020",
+      "id": 1266133995886174200,
+      "id_str": "1266133995886174208",
+      "full_text": "@artsiom_s Абстракт дедлайн был, щас неделю без сна статью улучшать будем",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        73
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artsiom_s",
+            "name": "Artsiom Sanakoyeu",
+            "id": 807855012927995900,
+            "id_str": "807855012927995904",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266009721837846500,
+      "in_reply_to_status_id_str": "1266009721837846528",
+      "in_reply_to_user_id": 807855012927995900,
+      "in_reply_to_user_id_str": "807855012927995904",
+      "in_reply_to_screen_name": "artsiom_s",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 07:21:24 +0000 2020",
+      "id": 1266268388743016400,
+      "id_str": "1266268388743016448",
+      "full_text": "# сообщение от куратора канала\nЕсли вам вдруг стало неудобно читать Твиттер с его алгоритмической лентой, залетайте в наш Telegram-канал: https://t.co/kAOgOo4bye, все твиты отсюда теперь будут направляться туда",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kAOgOo4bye",
+            "expanded_url": "https://tttttt.me/dsunderhood",
+            "display_url": "tttttt.me/dsunderhood",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 07:29:45 +0000 2020",
+      "id": 1266270487811768300,
+      "id_str": "1266270487811768320",
+      "full_text": "@product_diary_ А кому-то неудобно переключать настройки ¯\\_(ツ)_/¯ \nМеня попросили сделать канал, я сделал)",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "product_diary_",
+            "name": "Андрей Гаврилов",
+            "id": 1178963690311311400,
+            "id_str": "1178963690311311360",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266269616784826400,
+      "in_reply_to_status_id_str": "1266269616784826368",
+      "in_reply_to_user_id": 1178963690311311400,
+      "in_reply_to_user_id_str": "1178963690311311360",
+      "in_reply_to_screen_name": "product_diary_",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 11:17:52 +0000 2020",
+      "id": 1266327895204659200,
+      "id_str": "1266327895204659200",
+      "full_text": "RT @bes_dev: My colleagues released Intel's public online server for CVAT: https://t.co/rQZyEey7ij. This server provides an online labeling…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bes_dev",
+            "name": "Sergei Belousov",
+            "id": 30650518,
+            "id_str": "30650518",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rQZyEey7ij",
+            "expanded_url": "https://cvat.org",
+            "display_url": "cvat.org",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue May 26 08:01:34 +0000 2020",
+        "id": 1265191331095347200,
+        "id_str": "1265191331095347200",
+        "full_text": "My colleagues released Intel's public online server for CVAT: https://t.co/rQZyEey7ij. This server provides an online labeling tool for your computer vision datasets. We hope that it will be helpful in your great projects. https://t.co/XClYLebn6U",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          222
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/rQZyEey7ij",
+              "expanded_url": "https://cvat.org",
+              "display_url": "cvat.org",
+              "indices": [
+                62,
+                85
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1265190844606419000,
+              "id_str": "1265190844606418944",
+              "indices": [
+                223,
+                246
+              ],
+              "media_url": "http://pbs.twimg.com/media/EY7cXrHXkAA2PH4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EY7cXrHXkAA2PH4.jpg",
+              "url": "https://t.co/XClYLebn6U",
+              "display_url": "pic.twitter.com/XClYLebn6U",
+              "expanded_url": "https://twitter.com/bes_dev/status/1265191331095347200/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1543,
+                  "h": 756,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 588,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 333,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1265190844606419000,
+              "id_str": "1265190844606418944",
+              "indices": [
+                223,
+                246
+              ],
+              "media_url": "http://pbs.twimg.com/media/EY7cXrHXkAA2PH4.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EY7cXrHXkAA2PH4.jpg",
+              "url": "https://t.co/XClYLebn6U",
+              "display_url": "pic.twitter.com/XClYLebn6U",
+              "expanded_url": "https://twitter.com/bes_dev/status/1265191331095347200/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1543,
+                  "h": 756,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 588,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 333,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 30650518,
+          "id_str": "30650518"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 20,
+        "favorite_count": 32,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri May 29 17:25:16 +0000 2020",
+      "id": 1266420356325298200,
+      "id_str": "1266420356325298176",
+      "full_text": "@artsiom_s @fakemath @datasci02623223 Кстати этот кризис называется \"the valley of shit\" )",
+      "truncated": false,
+      "display_text_range": [
+        38,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "artsiom_s",
+            "name": "Artsiom Sanakoyeu",
+            "id": 807855012927995900,
+            "id_str": "807855012927995904",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "fakemath",
+            "name": "карельский бальзам",
+            "id": 44579678,
+            "id_str": "44579678",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "datasci02623223",
+            "name": "Мамкин датасаентист",
+            "id": 1262705898637742000,
+            "id_str": "1262705898637742081",
+            "indices": [
+              21,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1265807581798445000,
+      "in_reply_to_status_id_str": "1265807581798445056",
+      "in_reply_to_user_id": 807855012927995900,
+      "in_reply_to_user_id_str": "807855012927995904",
+      "in_reply_to_screen_name": "artsiom_s",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 17:29:38 +0000 2020",
+      "id": 1266421453999747000,
+      "id_str": "1266421453999747073",
+      "full_text": "Самое ценное в анализе данных это так называемое \"модельное мышление\", был такой MOOC \"Model Thinking\", в России это часто называют просто \"Математическое моделирование\". Но разница в том что моделировать можно не только подбирая закономерности, но и выучивая их.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 17:31:03 +0000 2020",
+      "id": 1266421810142347300,
+      "id_str": "1266421810142347265",
+      "full_text": "Понять какие свойства измеримые нужно выделить и распутать их, что бы облегчить обучение. Это касается любых измеримых вещей. Самые большие проблемы возникают когда люди плохо учитывают поведение людей.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266421453999747000,
+      "in_reply_to_status_id_str": "1266421453999747073",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 17:33:22 +0000 2020",
+      "id": 1266422394626936800,
+      "id_str": "1266422394626936833",
+      "full_text": "Я последние год начал интересоваться электронным музлом, стало сразу интересно что есть на пересечении музыки и ML, огромный поджанр генеративной/алгоритмической музыки попал в мое внимание. Потом различные попытки использовать NLP модели на MIDI последовательностях.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 17:35:52 +0000 2020",
+      "id": 1266423025550921700,
+      "id_str": "1266423025550921729",
+      "full_text": "Логика такая что музыка это своеобразный язык. Со своей грамматикой , которую в неявном виде можно выучить,  примеры этого Jukebox, MuseNet, проекты у Magenta. Очень любопытные вещи.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266422394626936800,
+      "in_reply_to_status_id_str": "1266422394626936833",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 17:38:15 +0000 2020",
+      "id": 1266423621469208600,
+      "id_str": "1266423621469208577",
+      "full_text": "Я с математической теорией музыки познакомился в 2012м когда писал курсовую про групповые свойства аккордов как структуры на множестве полигидральной группы мощностью 12. ( Z/12Z )",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266423025550921700,
+      "in_reply_to_status_id_str": "1266423025550921729",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 20:12:35 +0000 2020",
+      "id": 1266462464096567300,
+      "id_str": "1266462464096567304",
+      "full_text": "Сейчас изучаю цифро-аналоговый семплер Korg Volca sample, и прохожу курс по livecoding системе #Tidalcycles.  Когда освободится время смогу больше времени на ml music проекты. Хотел воспроизвести статью норвежцев которые RL агентом управляли аудио-сервером. Очень любопытно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Tidalcycles",
+            "indices": [
+              95,
+              107
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266423621469208600,
+      "in_reply_to_status_id_str": "1266423621469208577",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 29 23:58:08 +0000 2020",
+      "id": 1266519224031293400,
+      "id_str": "1266519224031293440",
+      "full_text": "Одна из областей AI research-а которая по моему не получает заслуженного внимания это #AKBC\nРасшифровывается как Automatic Knowledge Base Construction - автоматическое построение баз знаний (онтологий). Сильно пересекается с задачами neuro-simbolic обучения и geometric DL.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AKBC",
+            "indices": [
+              86,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 00:00:33 +0000 2020",
+      "id": 1266519832863875000,
+      "id_str": "1266519832863875078",
+      "full_text": "Был на конфе на эту тему в прошлом году, в целом очень интересно, полезные для моего ресерча было не так много как хотелось бы, на воркшопе про мультимодальные онтологии. И ничего про visual ontologies. \nВ этом году надеюсь будет побольше на эти темы. https://t.co/WLRyFUo5Cc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WLRyFUo5Cc",
+            "expanded_url": "https://www.akbc.ws/2020/",
+            "display_url": "akbc.ws/2020/",
+            "indices": [
+              252,
+              275
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266519224031293400,
+      "in_reply_to_status_id_str": "1266519224031293440",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 00:02:42 +0000 2020",
+      "id": 1266520373727821800,
+      "id_str": "1266520373727821824",
+      "full_text": "Вс Кэти новости про GPT-3 подчёркивают какой кризис воспроизводимости с суперкомпьютера, напоминает ситуацию в физике с БАК или каким нибудь уникальным телескопом. Интересно как их там решают. И решают ли. Нужно больше OSS HPC проектов что бы вернуть возможности малым игрокам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 00:05:12 +0000 2020",
+      "id": 1266521004454695000,
+      "id_str": "1266521004454694912",
+      "full_text": "@datasci02623223 Нет",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "datasci02623223",
+            "name": "Мамкин датасаентист",
+            "id": 1262705898637742000,
+            "id_str": "1262705898637742081",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266421882556948500,
+      "in_reply_to_status_id_str": "1266421882556948481",
+      "in_reply_to_user_id": 1262705898637742000,
+      "in_reply_to_user_id_str": "1262705898637742081",
+      "in_reply_to_screen_name": "datasci02623223",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 01:14:58 +0000 2020",
+      "id": 1266538559579848700,
+      "id_str": "1266538559579848707",
+      "full_text": "@datasci02623223 Есть очень много видов выучивается закономерностей из данных, регрессия - один частный случай. Весь DS/ML - поиск закономерностей оно же построение моделей.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "datasci02623223",
+            "name": "Мамкин датасаентист",
+            "id": 1262705898637742000,
+            "id_str": "1262705898637742081",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1266525260628836400,
+      "in_reply_to_status_id_str": "1266525260628836352",
+      "in_reply_to_user_id": 1262705898637742000,
+      "in_reply_to_user_id_str": "1262705898637742081",
+      "in_reply_to_screen_name": "datasci02623223",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 13:24:34 +0000 2020",
+      "id": 1266722171684098000,
+      "id_str": "1266722171684098048",
+      "full_text": "@datasci02623223 Моделирование совместное распределения, реляционные отношения полученные формальным выводом, каузальные модели, имитационное моделирование.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        156
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "datasci02623223",
+            "name": "Мамкин датасаентист",
+            "id": 1262705898637742000,
+            "id_str": "1262705898637742081",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266638450595451000,
+      "in_reply_to_status_id_str": "1266638450595450880",
+      "in_reply_to_user_id": 1262705898637742000,
+      "in_reply_to_user_id_str": "1262705898637742081",
+      "in_reply_to_screen_name": "datasci02623223",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 21:28:35 +0000 2020",
+      "id": 1266843978521067500,
+      "id_str": "1266843978521067531",
+      "full_text": "Если хотите узнать историю советских попыток создать интернет и использовать предсказательные модели для помощи индустриям. Вам обязательно нужно посмотреть первый эпизод документальной серии Адама Кертиса \"Pandora's Box\". https://t.co/Cgk0OS4MGZ Вас многие формулировки удивят.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Cgk0OS4MGZ",
+            "expanded_url": "https://www.youtube.com/watch?v=h3gwyHNo7MI",
+            "display_url": "youtube.com/watch?v=h3gwyH…",
+            "indices": [
+              223,
+              246
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 21:33:13 +0000 2020",
+      "id": 1266845142532722700,
+      "id_str": "1266845142532722690",
+      "full_text": "Вообще много из советской истории очень любопытно пересекается с современными технократическими веяньями. Вот хорошая статья описывающая  это https://t.co/8PQMQzwYcl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8PQMQzwYcl",
+            "expanded_url": "https://www.newyorker.com/magazine/2014/10/13/planning-machine",
+            "display_url": "newyorker.com/magazine/2014/…",
+            "indices": [
+              142,
+              165
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266843978521067500,
+      "in_reply_to_status_id_str": "1266843978521067531",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 21:40:20 +0000 2020",
+      "id": 1266846934733672400,
+      "id_str": "1266846934733672453",
+      "full_text": "Еще одна интересная тема - это паралельное развитие продтечей к AI в США и СССР, идеи \"оптимального контроля\" развивались паралельно с некоторыми различиями но во многом похожи. Так очень важное для Reinforcement Learning уравнение Беллмана оттуда исходит. https://t.co/DLq9MCQLpd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DLq9MCQLpd",
+            "expanded_url": "https://www.math.uni-bielefeld.de/documenta/vol-ismp/48_pesch-hans-josef-cold-war.pdf",
+            "display_url": "math.uni-bielefeld.de/documenta/vol-…",
+            "indices": [
+              257,
+              280
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266845142532722700,
+      "in_reply_to_status_id_str": "1266845142532722690",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 21:43:08 +0000 2020",
+      "id": 1266847638189678600,
+      "id_str": "1266847638189678602",
+      "full_text": "Вот интересная книга про попытки создать советский интернет, интернет Академика Глушкого.\nhttps://t.co/qPDQYIdXQM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qPDQYIdXQM",
+            "expanded_url": "https://mitpress.mit.edu/books/how-not-network-nation",
+            "display_url": "mitpress.mit.edu/books/how-not-…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266846934733672400,
+      "in_reply_to_status_id_str": "1266846934733672453",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 21:52:55 +0000 2020",
+      "id": 1266850101768736800,
+      "id_str": "1266850101768736775",
+      "full_text": "Есть еще статья ответ на статью @evgenymorozov  https://t.co/Lr3RhbDZQ1 , но там больше политические аргументы а не про свойства технологий и их роль в различных идеологиях.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "evgenymorozov",
+            "name": "Evgeny Morozov",
+            "id": 30331417,
+            "id_str": "30331417",
+            "indices": [
+              32,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Lr3RhbDZQ1",
+            "expanded_url": "https://www.thenation.com/article/archive/anti-socialist-origins-big-data/",
+            "display_url": "thenation.com/article/archiv…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266847638189678600,
+      "in_reply_to_status_id_str": "1266847638189678602",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 21:54:54 +0000 2020",
+      "id": 1266850599494172700,
+      "id_str": "1266850599494172675",
+      "full_text": "RT @bes_dev: Some time ago, for internal use in my projects, I created a simple library for the evaluation of mAP for Object Detection algo…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bes_dev",
+            "name": "Sergei Belousov",
+            "id": 30650518,
+            "id_str": "30650518",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sat May 30 18:38:17 +0000 2020",
+        "id": 1266801118664888300,
+        "id_str": "1266801118664888323",
+        "full_text": "Some time ago, for internal use in my projects, I created a simple library for the evaluation of mAP for Object Detection algorithms that can be easily integrated into different pipelines. And now I published it on github. Enjoy using!  https://t.co/4nd1S6RbHj",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          260
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/4nd1S6RbHj",
+              "expanded_url": "https://github.com/bes-dev/mean_average_precision",
+              "display_url": "github.com/bes-dev/mean_a…",
+              "indices": [
+                237,
+                260
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 30650518,
+          "id_str": "30650518"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 12,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat May 30 22:13:27 +0000 2020",
+      "id": 1266855268287119400,
+      "id_str": "1266855268287119360",
+      "full_text": "1/3 Другая сторона Модельного Мышления - Алгоритмическое Мышление. Многие не понимают что компьютеры/калькуляторы - это лишь самый очевидный пример того что такое вычисление. Фундаментально все физические процессы с определенными свойствами - являются вычислениями.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat May 30 22:14:40 +0000 2020",
+      "id": 1266855574957895700,
+      "id_str": "1266855574957895680",
+      "full_text": "Что бы понять эти идеи подрбнее, рекомендую почитать эту любопытную книгу \"Computing Without Computers: A Gentle Introduction to Computer Programming, Data Structures and Algorithms\"\n\nhttps://t.co/HDOqK7c3NC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HDOqK7c3NC",
+            "expanded_url": "https://teachinglondoncomputing.files.wordpress.com/2014/02/booklet-cwc-feb2014.pdf",
+            "display_url": "…nglondoncomputing.files.wordpress.com/2014/02/bookle…",
+            "indices": [
+              184,
+              207
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266855268287119400,
+      "in_reply_to_status_id_str": "1266855268287119360",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sat May 30 22:17:42 +0000 2020",
+      "id": 1266856338618904600,
+      "id_str": "1266856338618904577",
+      "full_text": "Человеческие организации - это компьютеры которые используют поведение людей как свои вычисления, понятия программирования,  памяти, скорости вычислений - принимают новые оттенки. Налоговая система например - это алгоритм. Современные мега корпорации - это уже суперинтеллект.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266855574957895700,
+      "in_reply_to_status_id_str": "1266855574957895680",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 31 00:11:55 +0000 2020",
+      "id": 1266885081299370000,
+      "id_str": "1266885081299369984",
+      "full_text": "В MIT был очень крутой курс про антропологию вычислений. Очень тяжело вообразить как история развивалась и что делали люди что бы создавать разные вычислительные устройства, кулиминирующие в современных компьютерах. https://t.co/1nuQZ43m7n",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1nuQZ43m7n",
+            "expanded_url": "https://ocw.mit.edu/courses/anthropology/21a-350j-cultures-of-computing-fall-2011/",
+            "display_url": "ocw.mit.edu/courses/anthro…",
+            "indices": [
+              216,
+              239
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1266856338618904600,
+      "in_reply_to_status_id_str": "1266856338618904577",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 31 00:27:20 +0000 2020",
+      "id": 1266888962351734800,
+      "id_str": "1266888962351734785",
+      "full_text": "Возможно самое старое machine learning demo. С неким Клодом Шеноном ))\nhttps://t.co/AKVwNaYkVQ\nИ любопытная статья где предаставляют контекст и перспективу.\nhttps://t.co/m3Twc3zkCJ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AKVwNaYkVQ",
+            "expanded_url": "https://www.youtube.com/watch?v=_9_AEVQ_p74",
+            "display_url": "youtube.com/watch?v=_9_AEV…",
+            "indices": [
+              71,
+              94
+            ]
+          },
+          {
+            "url": "https://t.co/m3Twc3zkCJ",
+            "expanded_url": "https://www.technologyreview.com/2018/12/19/138508/mighty-mouse/",
+            "display_url": "technologyreview.com/2018/12/19/138…",
+            "indices": [
+              157,
+              180
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 31 13:05:53 +0000 2020",
+      "id": 1267079854928859100,
+      "id_str": "1267079854928859137",
+      "full_text": "@nick434434 Касается философского вопроса, \"математику создают или открывают\" (\"is mathematics discovered or invented\"). Я убежден что открывают, потому что каждый набор аксиом создаёт свою \"математическую вселенную\" и она верна для всех кто согласился на эти аксиомы.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nick434434",
+            "name": "sucksass",
+            "id": 231884235,
+            "id_str": "231884235",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1267063039100149800,
+      "in_reply_to_status_id_str": "1267063039100149761",
+      "in_reply_to_user_id": 231884235,
+      "in_reply_to_user_id_str": "231884235",
+      "in_reply_to_screen_name": "nick434434",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 31 13:37:36 +0000 2020",
+      "id": 1267087839038185500,
+      "id_str": "1267087839038185477",
+      "full_text": "@Mrchair2170 @nick434434 Радикально согласен, математика - не наука, это язык описания моделей или набор абстрактных методов исполняемый людьми когнитивно.",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Mrchair2170",
+            "name": "Ilia Krets",
+            "id": 3253973644,
+            "id_str": "3253973644",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "nick434434",
+            "name": "sucksass",
+            "id": 231884235,
+            "id_str": "231884235",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1267083891929747500,
+      "in_reply_to_status_id_str": "1267083891929747461",
+      "in_reply_to_user_id": 3253973644,
+      "in_reply_to_user_id_str": "3253973644",
+      "in_reply_to_screen_name": "Mrchair2170",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 31 17:40:17 +0000 2020",
+      "id": 1267148909526364200,
+      "id_str": "1267148909526364160",
+      "full_text": "Я прощаюсь с вами дорогие читатели, была любопытная неделька. Меня можно найти тут: @Gang1man , подключайтесь к https://t.co/YbftVOKIie . Пишите если есть работа для опытного консультанта в DS/ML/AI . Помогайте c OSS на https://t.co/yIIUXrvpj9 , вместе победим. Удачи.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Gang1man",
+            "name": "Alexandr Notchenko",
+            "id": 178537877,
+            "id_str": "178537877",
+            "indices": [
+              84,
+              93
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YbftVOKIie",
+            "expanded_url": "http://ODS.ai",
+            "display_url": "ODS.ai",
+            "indices": [
+              112,
+              135
+            ]
+          },
+          {
+            "url": "https://t.co/yIIUXrvpj9",
+            "expanded_url": "http://GitHub.com/gangiman",
+            "display_url": "GitHub.com/gangiman",
+            "indices": [
+              220,
+              243
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1231564770249203700,
+  "id_str": "1231564770249203715",
+  "name": "Data Scientist",
+  "screen_name": "dsunderhood",
+  "location": "",
+  "profile_location": null,
+  "description": "🐦 Коллективный твиттер DS (инженеров, разработчиков, аналитиков). \n\n✍️ Cтать автором: https://t.co/GWMQNYi73O\n\n🖖 Автор недели – Сергей Иванов @SergeyI49013776",
+  "url": "https://t.co/dE7rPalwpR",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/dE7rPalwpR",
+          "expanded_url": "http://dsunderhood.github.io",
+          "display_url": "dsunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/GWMQNYi73O",
+          "expanded_url": "http://dsunderhood.github.io/authoring",
+          "display_url": "dsunderhood.github.io/authoring",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1432,
+  "friends_count": 16,
+  "listed_count": 18,
+  "created_at": "Sun Feb 23 13:02:17 +0000 2020",
+  "favourites_count": 205,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2252,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Jun 21 17:52:01 +0000 2020",
+    "id": 1274762008584429600,
+    "id_str": "1274762008584429569",
+    "text": "@garkavem Надо переезжать в Гренобль! Там как раз офис есть",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "garkavem",
+          "name": "Mariia Garkavenko",
+          "id": 975176727596060700,
+          "id_str": "975176727596060672",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1274756955689582600,
+    "in_reply_to_status_id_str": "1274756955689582592",
+    "in_reply_to_user_id": 975176727596060700,
+    "in_reply_to_user_id_str": "975176727596060672",
+    "in_reply_to_screen_name": "garkavem",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1272405368807833605/1xw47zmA_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272405368807833605/1xw47zmA_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231564770249203715/1592777824",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}

@@ -1,0 +1,746 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Apr 20 15:43:54 +0000 2020",
+      "id": 1252261719721873400,
+      "id_str": "1252261719721873408",
+      "text": "@tiulpin @qt__cookie @de4aultname Мне в 10 классе математичка намекала, что \"мехмат - это сложно\", не вытащишь ты, в общем, девочка\nХа ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "qt__cookie",
+            "name": "radical dreamer",
+            "id": 1111819112,
+            "id_str": "1111819112",
+            "indices": [
+              9,
+              20
+            ]
+          },
+          {
+            "screen_name": "de4aultname",
+            "name": "черная весна 🏳️‍🌈",
+            "id": 350931486,
+            "id_str": "350931486",
+            "indices": [
+              21,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1252254730740514800,
+      "in_reply_to_status_id_str": "1252254730740514818",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1031127749342244900,
+        "id_str": "1031127749342244864"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 16:21:53 +0000 2020",
+      "id": 1252271278205087700,
+      "id_str": "1252271278205087744",
+      "text": "@tiulpin @qt__cookie Ну меня никто не наказывал и никто не принижал, просто у нас был уровень сильно выше среднеобразовательной ватерлинии)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "qt__cookie",
+            "name": "radical dreamer",
+            "id": 1111819112,
+            "id_str": "1111819112",
+            "indices": [
+              9,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1252254730740514800,
+      "in_reply_to_status_id_str": "1252254730740514818",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 350931486,
+        "id_str": "350931486"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 16:40:23 +0000 2020",
+      "id": 1252275935304433700,
+      "id_str": "1252275935304433668",
+      "text": "@de4aultname @tiulpin Мы учились по учебникам 239 и за каждую хорошую оценку приходилось сражаться. Может поэтому в… https://t.co/p5PbaH9Sdu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "de4aultname",
+            "name": "черная весна 🏳️‍🌈",
+            "id": 350931486,
+            "id_str": "350931486",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              13,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/p5PbaH9Sdu",
+            "expanded_url": "https://twitter.com/i/web/status/1252275935304433668",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1252271278205087700,
+      "in_reply_to_status_id_str": "1252271278205087744",
+      "in_reply_to_user_id": 350931486,
+      "in_reply_to_user_id_str": "350931486",
+      "in_reply_to_screen_name": "de4aultname",
+      "user": {
+        "id": 1111819112,
+        "id_str": "1111819112"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 20 19:40:43 +0000 2020",
+      "id": 1252321318437085200,
+      "id_str": "1252321318437085187",
+      "text": "@tiulpin Как насчёт Zalando?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1252306104761094100,
+      "in_reply_to_status_id_str": "1252306104761094150",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1216642555615547400,
+        "id_str": "1216642555615547392"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Apr 21 17:42:29 +0000 2020",
+      "id": 1252653949485793300,
+      "id_str": "1252653949485793281",
+      "text": "@tiulpin thx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1252652229334569000,
+      "in_reply_to_status_id_str": "1252652229334568961",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 350931486,
+        "id_str": "350931486"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Apr 21 21:39:51 +0000 2020",
+      "id": 1252713686227181600,
+      "id_str": "1252713686227181580",
+      "text": "@tiulpin @Nekrolm @Devastated_mind @homa_sapiens_ ложно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Nekrolm",
+            "name": "Dmitry /Undefined Behavior/ Sviridkin",
+            "id": 826890453224140800,
+            "id_str": "826890453224140806",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "screen_name": "Devastated_mind",
+            "name": "Ivan Aristov",
+            "id": 1111466300,
+            "id_str": "1111466300",
+            "indices": [
+              18,
+              34
+            ]
+          },
+          {
+            "screen_name": "homa_sapiens_",
+            "name": "Homa sapiens",
+            "id": 1031127749342244900,
+            "id_str": "1031127749342244864",
+            "indices": [
+              35,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1252649811276451800,
+      "in_reply_to_status_id_str": "1252649811276451842",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 984423901,
+        "id_str": "984423901"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Apr 21 21:44:07 +0000 2020",
+      "id": 1252714758920450000,
+      "id_str": "1252714758920450060",
+      "text": "@nataliaromanen @tiulpin @Nekrolm @homa_sapiens_ Сидяче",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nataliaromanen",
+            "name": "romanenka",
+            "id": 984423901,
+            "id_str": "984423901",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              16,
+              24
+            ]
+          },
+          {
+            "screen_name": "Nekrolm",
+            "name": "Dmitry /Undefined Behavior/ Sviridkin",
+            "id": 826890453224140800,
+            "id_str": "826890453224140806",
+            "indices": [
+              25,
+              33
+            ]
+          },
+          {
+            "screen_name": "homa_sapiens_",
+            "name": "Home-як",
+            "id": 1031127749342244900,
+            "id_str": "1031127749342244864",
+            "indices": [
+              34,
+              48
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1252713686227181600,
+      "in_reply_to_status_id_str": "1252713686227181580",
+      "in_reply_to_user_id": 984423901,
+      "in_reply_to_user_id_str": "984423901",
+      "in_reply_to_screen_name": "nataliaromanen",
+      "user": {
+        "id": 1111466300,
+        "id_str": "1111466300"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 07:04:48 +0000 2020",
+      "id": 1252855861229150200,
+      "id_str": "1252855861229150208",
+      "text": "@nataliaromanen @tiulpin @Devastated_mind @homa_sapiens_ истинно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nataliaromanen",
+            "name": "romanenka",
+            "id": 984423901,
+            "id_str": "984423901",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              16,
+              24
+            ]
+          },
+          {
+            "screen_name": "Devastated_mind",
+            "name": "Ivan Aristov",
+            "id": 1111466300,
+            "id_str": "1111466300",
+            "indices": [
+              25,
+              41
+            ]
+          },
+          {
+            "screen_name": "homa_sapiens_",
+            "name": "Homa sapiens",
+            "id": 1031127749342244900,
+            "id_str": "1031127749342244864",
+            "indices": [
+              42,
+              56
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1252713686227181600,
+      "in_reply_to_status_id_str": "1252713686227181580",
+      "in_reply_to_user_id": 984423901,
+      "in_reply_to_user_id_str": "984423901",
+      "in_reply_to_screen_name": "nataliaromanen",
+      "user": {
+        "id": 826890453224140800,
+        "id_str": "826890453224140806"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 15:53:22 +0000 2020",
+      "id": 1252988877247328300,
+      "id_str": "1252988877247328256",
+      "text": "@tiulpin И вправда) может быть им не нравится слово \"без\"?)) или у них цель - показать что с полосками тоже ничего футболочки))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1252306104761094100,
+      "in_reply_to_status_id_str": "1252306104761094150",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1237110272109707300,
+        "id_str": "1237110272109707264"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Apr 22 17:11:39 +0000 2020",
+      "id": 1253008579596030000,
+      "id_str": "1253008579596029954",
+      "text": "@tiulpin *our dudes",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1252998328402534400,
+      "in_reply_to_status_id_str": "1252998328402534401",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 777894577848090600,
+        "id_str": "777894577848090624"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Apr 23 12:05:17 +0000 2020",
+      "id": 1253293866184294400,
+      "id_str": "1253293866184294400",
+      "text": "@tiulpin @aarexer @VanuaShimko Вы просто слишком популярны.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "aarexer",
+            "name": "Александр Кучук",
+            "id": 3834020309,
+            "id_str": "3834020309",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "screen_name": "VanuaShimko",
+            "name": "binary lifestyle",
+            "id": 511908220,
+            "id_str": "511908220",
+            "indices": [
+              18,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1253293666283720700,
+      "in_reply_to_status_id_str": "1253293666283720704",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 73152412,
+        "id_str": "73152412"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Apr 25 18:18:54 +0000 2020",
+      "id": 1254112666148393000,
+      "id_str": "1254112666148392965",
+      "text": "@tiulpin @de4aultname 2020й задолбал, чесслово",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "de4aultname",
+            "name": "черная весна 🏳️‍🌈",
+            "id": 350931486,
+            "id_str": "350931486",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254102293387137000,
+      "in_reply_to_status_id_str": "1254102293387137025",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 19907536,
+        "id_str": "19907536"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 26 16:42:57 +0000 2020",
+      "id": 1254450907993059300,
+      "id_str": "1254450907993059331",
+      "text": "@tiulpin Только 3 не решил из 12( (самые дорогие)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1254392726751268900,
+      "in_reply_to_status_id_str": "1254392726751268864",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1307392406,
+        "id_str": "1307392406"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

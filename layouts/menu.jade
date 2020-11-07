@@ -1,0 +1,25 @@
+.navbar
+  .container
+    .navbar-header
+      button.navbar-toggle.collapsed(data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false")
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+      a.navbar-brand.visible-xs(href="/")
+        span.text-muted @
+        b dsunderhood
+    .navbar-collapse.collapse#navbar-collapse
+      .row
+        ul.nav.navbar-nav
+          li
+            a.btn.btn-success(href="https://twitter.com/dsunderhood")
+              b Подписаться
+          li
+            a(href="/authoring/") Стать автором
+          li.hidden-sm
+            a(href="https://github.com/dsunderhood/") GitHub
+          li.hidden-sm
+            a(href="https://google.com/?q=site:dsunderhood.github.io+что-нибудь") Поиск
+          li.hidden-sm
+            a(href="https://github.com/iamstarkov/awesome-collective-twitters") Похожие проекты

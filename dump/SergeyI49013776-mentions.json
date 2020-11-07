@@ -1,0 +1,48 @@
+{
+  "mentions": [
+    {
+      "created_at": "Sun Jun 21 14:47:22 +0000 2020",
+      "id": 1274715541299757000,
+      "id_str": "1274715541299757056",
+      "text": "@tiulpin Вот такой явный плагиат редко. Часто бывают случаи, когда код не выкладывают, а потом результаты не сходятся.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1274603637550055400,
+      "in_reply_to_status_id_str": "1274603637550055426",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}

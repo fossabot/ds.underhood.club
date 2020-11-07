@@ -1,0 +1,308 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon May 04 18:12:01 +0000 2020",
+      "id": 1257372425899122700,
+      "id_str": "1257372425899122690",
+      "text": "@tiulpin @tributetonight Нолан уже заявил, что нас ждет еще три сезона в мире людей...боже упаси",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "tributetonight",
+            "name": "твиты от никиты 🏳️‍🌈",
+            "id": 342317028,
+            "id_str": "342317028",
+            "indices": [
+              9,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1257371518646005800,
+      "in_reply_to_status_id_str": "1257371518646005762",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 793806411440480300,
+        "id_str": "793806411440480257"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 10 23:28:57 +0000 2020",
+      "id": 1259626510157328400,
+      "id_str": "1259626510157328384",
+      "text": "@tiulpin Here’s your unroll: https://t.co/kkogoITq7K",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kkogoITq7K",
+            "expanded_url": "https://threadreaderapp.com/thread/1259609334465642497",
+            "display_url": "threadreaderapp.com/thread/1259609…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://threadreaderapp.com\" rel=\"nofollow\">ThreadReaderApp</a>",
+      "in_reply_to_status_id": 1259626303952752600,
+      "in_reply_to_status_id_str": "1259626303952752641",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 895814938995957800,
+        "id_str": "895814938995957760"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun May 10 23:31:17 +0000 2020",
+      "id": 1259627097401757700,
+      "id_str": "1259627097401757704",
+      "text": "@tiulpin Hallo, the unroll you asked for: @dsunderhood: Контейнеры 1.1/ Я обожаю контейнеры. Они радикально упрощаю… https://t.co/ZCwR1mvFcE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "dsunderhood",
+            "name": "Data Scientist",
+            "id": 1231564770249203700,
+            "id_str": "1231564770249203715",
+            "indices": [
+              42,
+              54
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZCwR1mvFcE",
+            "expanded_url": "https://twitter.com/i/web/status/1259627097401757704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://threadreaderapp.com\" rel=\"nofollow\">ThreadReaderApp</a>",
+      "in_reply_to_status_id": 1259626602390061000,
+      "in_reply_to_status_id_str": "1259626602390061057",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 895814938995957800,
+        "id_str": "895814938995957760"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 10 23:35:32 +0000 2020",
+      "id": 1259628167070974000,
+      "id_str": "1259628167070973954",
+      "text": "@tiulpin Saluti, here is your unroll: @dsunderhood: 0/ Итак, стартапы. Погнали!!! Буду рассказывать про стартапы на… https://t.co/RhBjl5IRhi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "dsunderhood",
+            "name": "Data Scientist",
+            "id": 1231564770249203700,
+            "id_str": "1231564770249203715",
+            "indices": [
+              38,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RhBjl5IRhi",
+            "expanded_url": "https://twitter.com/i/web/status/1259628167070973954",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://threadreaderapp.com\" rel=\"nofollow\">ThreadReaderApp</a>",
+      "in_reply_to_status_id": 1259627718741803000,
+      "in_reply_to_status_id_str": "1259627718741803009",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 895814938995957800,
+        "id_str": "895814938995957760"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun May 10 23:35:57 +0000 2020",
+      "id": 1259628271924371500,
+      "id_str": "1259628271924371456",
+      "text": "@tiulpin Hi, the unroll you asked for: @dsunderhood: Типизация в Python Начиная с версии 3.6 в пайтон завезли аннот… https://t.co/8YdUqS2DEb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "dsunderhood",
+            "name": "Data Scientist",
+            "id": 1231564770249203700,
+            "id_str": "1231564770249203715",
+            "indices": [
+              39,
+              51
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8YdUqS2DEb",
+            "expanded_url": "https://twitter.com/i/web/status/1259628271924371456",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://threadreaderapp.com\" rel=\"nofollow\">ThreadReaderApp</a>",
+      "in_reply_to_status_id": 1259627793664684000,
+      "in_reply_to_status_id_str": "1259627793664684032",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 895814938995957800,
+        "id_str": "895814938995957760"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    }
+  ]
+}

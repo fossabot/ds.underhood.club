@@ -1,0 +1,107 @@
+{
+  "id": 1231564770249203700,
+  "id_str": "1231564770249203715",
+  "name": "Data Scientist",
+  "screen_name": "dsunderhood",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный твиттер DS (инженеров, разработчиков, аналитиков). Автор недели — Евгений Кашин (@digitman_)",
+  "url": "https://t.co/DHjQJl2OAQ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/DHjQJl2OAQ",
+          "expanded_url": "https://dsunderhood.github.io/",
+          "display_url": "dsunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 959,
+  "friends_count": 6,
+  "listed_count": 10,
+  "created_at": "Sun Feb 23 13:02:17 +0000 2020",
+  "favourites_count": 98,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 817,
+  "lang": null,
+  "status": {
+    "created_at": "Wed Apr 01 18:59:35 +0000 2020",
+    "id": 1245425596685058000,
+    "id_str": "1245425596685058049",
+    "text": "@chinchopper Да, обычно это одно из предположений о среде, которое часто не выполняется, что впринципе не сильно мешает",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "chinchopper",
+          "name": "Anton Kharkhonov",
+          "id": 1021726746981351400,
+          "id_str": "1021726746981351425",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1245421421922320400,
+    "in_reply_to_status_id_str": "1245421421922320386",
+    "in_reply_to_user_id": 1021726746981351400,
+    "in_reply_to_user_id_str": "1021726746981351425",
+    "in_reply_to_screen_name": "chinchopper",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1244506395816398849/I4BvY1Bf_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244506395816398849/I4BvY1Bf_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231564770249203715/1585548422",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}

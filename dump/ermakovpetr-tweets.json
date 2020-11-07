@@ -1,0 +1,1843 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 23 08:52:42 +0000 2020",
+      "id": 1242011377276838000,
+      "id_str": "1242011377276837889",
+      "full_text": "На этой неделе коллективный твиттер по DS захватил Петр Ермаков (@ermakovpetr). О себе: делаю школу машинного обучения DataGym, занимаюсь DS-ом в Lamoda, \"держал свечку\" при создании ODS Slack.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        193
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ermakovpetr",
+            "name": "Petr Ermakov",
+            "id": 124578687,
+            "id_str": "124578687",
+            "indices": [
+              65,
+              77
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 33,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 09:07:57 +0000 2020",
+      "id": 1242015216831017000,
+      "id_str": "1242015216831016962",
+      "full_text": "План (ага, как же):\n\n#1 Разогревающий день: нужно притереться друг к другу\n#2 Расскажу свою историю в DS\n#3 Инженерия и BigData в DS\n#4 Дистанционная работа в DS и препода при самоизоляции\n#5 Преподавание в DS\n#6 Рекомендательные системы\n#7 Конференции, митапы, нетворкинг",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 09:08:39 +0000 2020",
+      "id": 1242015390076633000,
+      "id_str": "1242015390076633088",
+      "full_text": "@thebits @ermakovpetr привет! спасибо!",
+      "truncated": false,
+      "display_text_range": [
+        22,
+        38
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thebits",
+            "name": "Sergey Mezentsev",
+            "id": 14247991,
+            "id_str": "14247991",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "ermakovpetr",
+            "name": "Petr Ermakov",
+            "id": 124578687,
+            "id_str": "124578687",
+            "indices": [
+              9,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242014050378231800,
+      "in_reply_to_status_id_str": "1242014050378231813",
+      "in_reply_to_user_id": 14247991,
+      "in_reply_to_user_id_str": "14247991",
+      "in_reply_to_screen_name": "thebits",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 09:33:46 +0000 2020",
+      "id": 1242021711119290400,
+      "id_str": "1242021711119290371",
+      "full_text": "Для меня понедельник оказался самым тяжелым днем на изоляции: все выходные я делал перестановку для комфортной работы и стрима из дома. Утро понедельника ушло на уборку полученного срача и попытке привыкнуть к новой обстановке.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 09:34:56 +0000 2020",
+      "id": 1242022007719506000,
+      "id_str": "1242022007719505921",
+      "full_text": "Пока я втягиваюсь в работу, задам вам простой вопрос по DS (сделаем эту рубрику ежедневной)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242021711119290400,
+      "in_reply_to_status_id_str": "1242021711119290371",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 09:40:50 +0000 2020",
+      "id": 1242023491987267600,
+      "id_str": "1242023491987267587",
+      "full_text": "Задача бинарной классификации: метка класса - y, при вероятности полученной от модели - ŷ, получаем значение ROC-AUC = x.\nКак изменится ROC-AUC если в качестве вероятностей взять sqrt(ŷ)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242022007719506000,
+      "in_reply_to_status_id_str": "1242022007719505921",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 09:41:52 +0000 2020",
+      "id": 1242023748955496400,
+      "id_str": "1242023748955496454",
+      "full_text": "Реплаем можно аргументировать ответ ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        38
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242023491987267600,
+      "in_reply_to_status_id_str": "1242023491987267587",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 11:18:55 +0000 2020",
+      "id": 1242048174883254300,
+      "id_str": "1242048174883254274",
+      "full_text": "@thebits лекции. я фанат очного образования, но в пандемию пробуем дистанционные подходы",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thebits",
+            "name": "Sergey Mezentsev",
+            "id": 14247991,
+            "id_str": "14247991",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242031995837993000,
+      "in_reply_to_status_id_str": "1242031995837992960",
+      "in_reply_to_user_id": 14247991,
+      "in_reply_to_user_id_str": "14247991",
+      "in_reply_to_screen_name": "thebits",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 11:26:13 +0000 2020",
+      "id": 1242050010440704000,
+      "id_str": "1242050010440704000",
+      "full_text": "Часть набора удаленного препода в пандемию. В четверг дам фото в полном фарше 👀 https://t.co/WEJSLwgTHN",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        79
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1242049402296062000,
+            "id_str": "1242049402296061953",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETylWclX0AEm8aw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETylWclX0AEm8aw.jpg",
+            "url": "https://t.co/WEJSLwgTHN",
+            "display_url": "pic.twitter.com/WEJSLwgTHN",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1242050010440704000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 875,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 933,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 496,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1242049402296062000,
+            "id_str": "1242049402296061953",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETylWclX0AEm8aw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETylWclX0AEm8aw.jpg",
+            "url": "https://t.co/WEJSLwgTHN",
+            "display_url": "pic.twitter.com/WEJSLwgTHN",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1242050010440704000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 875,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 933,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 496,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 18:25:18 +0000 2020",
+      "id": 1242155477401620500,
+      "id_str": "1242155477401620487",
+      "full_text": "@YevhenKolodko все же ради знаний, а не правильных ответов",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YevhenKolodko",
+            "name": "тот самый Евгений",
+            "id": 1849553766,
+            "id_str": "1849553766",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242064504952967200,
+      "in_reply_to_status_id_str": "1242064504952967168",
+      "in_reply_to_user_id": 1849553766,
+      "in_reply_to_user_id_str": "1849553766",
+      "in_reply_to_screen_name": "YevhenKolodko",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 23 21:33:11 +0000 2020",
+      "id": 1242202759073579000,
+      "id_str": "1242202759073579013",
+      "full_text": "Издержки работы из дома: пока обучается модель, пойти за чаем, долбануться пальцем о косяк двери и поехать на рентген. А как ваш вечер? https://t.co/hBVke7RAd8",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1242201775454785500,
+            "id_str": "1242201775454785536",
+            "indices": [
+              136,
+              159
+            ],
+            "media_url": "http://pbs.twimg.com/media/ET0v7u1XkAActBk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ET0v7u1XkAActBk.jpg",
+            "url": "https://t.co/hBVke7RAd8",
+            "display_url": "pic.twitter.com/hBVke7RAd8",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1242202759073579013/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1242201775454785500,
+            "id_str": "1242201775454785536",
+            "indices": [
+              136,
+              159
+            ],
+            "media_url": "http://pbs.twimg.com/media/ET0v7u1XkAActBk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ET0v7u1XkAActBk.jpg",
+            "url": "https://t.co/hBVke7RAd8",
+            "display_url": "pic.twitter.com/hBVke7RAd8",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1242202759073579013/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 31,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 24 08:28:39 +0000 2020",
+      "id": 1242367712426250200,
+      "id_str": "1242367712426250241",
+      "full_text": "@Yetishkin_P @ermakovpetr https://t.co/TB6zOYhgpG",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        25
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Yetishkin_P",
+            "name": "Етишкин_Пистолет 🇷🇺🇧🇾🇨🇳🇩🇪🇦🇹🇨🇭",
+            "id": 268455909,
+            "id_str": "268455909",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "ermakovpetr",
+            "name": "Petr Ermakov",
+            "id": 124578687,
+            "id_str": "124578687",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1242367696563572700,
+            "id_str": "1242367696563572736",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/ET3G1nIXkAAj9o-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ET3G1nIXkAAj9o-.jpg",
+            "url": "https://t.co/TB6zOYhgpG",
+            "display_url": "pic.twitter.com/TB6zOYhgpG",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1242367712426250241/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1242367696563572700,
+            "id_str": "1242367696563572736",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/ET3G1nIXkAAj9o-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ET3G1nIXkAAj9o-.jpg",
+            "url": "https://t.co/TB6zOYhgpG",
+            "display_url": "pic.twitter.com/TB6zOYhgpG",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1242367712426250241/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242353290416963600,
+      "in_reply_to_status_id_str": "1242353290416963589",
+      "in_reply_to_user_id": 268455909,
+      "in_reply_to_user_id_str": "268455909",
+      "in_reply_to_screen_name": "Yetishkin_P",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Mar 24 10:26:49 +0000 2020",
+      "id": 1242397452533194800,
+      "id_str": "1242397452533194752",
+      "full_text": "Кстати, кто не знает, мы делаем подкаст по DS https://t.co/meFVhnuuFA\nЭпидемиологическая обстановка способствует записи второго выпуска.\nМы есть на всех платформах.\n\n(Про что / С кем) вам бы был интересен новый выпуск? (тут не ценят открытые вопросы, но очень прошу фидбек)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/meFVhnuuFA",
+            "expanded_url": "http://dscast.ru",
+            "display_url": "dscast.ru",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 16,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 25 14:10:23 +0000 2020",
+      "id": 1242816099261055000,
+      "id_str": "1242816099261054976",
+      "full_text": "Не хотел прерывать президента, а теперь можно и о себе рассказать: \n\nДо 9 класса учился в школе в военном городке в Рязани. Тащился от математики и логических задачек, это и определило мое дальнейшее место учебы",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 26 06:28:17 +0000 2020",
+      "id": 1243062196508274700,
+      "id_str": "1243062196508274688",
+      "full_text": "Хотел поступать в СУНЦ МГУ, но не прошел. Поступил  и проучился 10-11 класс в физ-мат лицее при МГТУ им Баумана. Там первый раз и начал программировать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1242816099261055000,
+      "in_reply_to_status_id_str": "1242816099261054976",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 26 14:03:14 +0000 2020",
+      "id": 1243176690165186600,
+      "id_str": "1243176690165186561",
+      "full_text": "В МГТУ им. Баумана учился на ИУ-7, где готовили программистов. Там и первый раз познакомился с анализом данных.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1243062196508274700,
+      "in_reply_to_status_id_str": "1243062196508274688",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 26 14:03:41 +0000 2020",
+      "id": 1243176800978702300,
+      "id_str": "1243176800978702336",
+      "full_text": "@vanadium23 2007",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        16
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vanadium23",
+            "name": "Прогорклость и замутнёность",
+            "id": 223273129,
+            "id_str": "223273129",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1243113900868014000,
+      "in_reply_to_status_id_str": "1243113900868014081",
+      "in_reply_to_user_id": 223273129,
+      "in_reply_to_user_id_str": "223273129",
+      "in_reply_to_screen_name": "vanadium23",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Mar 26 16:15:26 +0000 2020",
+      "id": 1243209957941575700,
+      "id_str": "1243209957941575682",
+      "full_text": "На 2ом курсе вместо курсового по компьютерной графике предложили сделать курсовой по анализу текстов для электронной библиотеки университета. Не очень понимал зачем мне эта компьютерная графика, потому согласился",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        212
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1243176690165186600,
+      "in_reply_to_status_id_str": "1243176690165186561",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 26 16:18:16 +0000 2020",
+      "id": 1243210673368305700,
+      "id_str": "1243210673368305664",
+      "full_text": "Реализовывал алгоритм шинглирования для поиска нечетких дубликатов (и его усложнения) https://t.co/3TiTFkbAH5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3TiTFkbAH5",
+            "expanded_url": "http://elib.ict.nsc.ru/jspui/handle/ICT/1233",
+            "display_url": "elib.ict.nsc.ru/jspui/handle/I…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1243209957941575700,
+      "in_reply_to_status_id_str": "1243209957941575682",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 26 16:19:40 +0000 2020",
+      "id": 1243211022359552000,
+      "id_str": "1243211022359552001",
+      "full_text": "Это был не ML но мне очень понравилось работать с текстовыми данными. Спустя полгода попал на Студень (конференцию Яндекса для студентов) Где встретил Сегаловича и даже лично тогда в коридоре задал пару вопросов по его статье.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1243210673368305700,
+      "in_reply_to_status_id_str": "1243210673368305664",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Mar 27 10:14:32 +0000 2020",
+      "id": 1243481521828348000,
+      "id_str": "1243481521828347906",
+      "full_text": "Готовился к докладу, нашел вот такую либу. Скоро нас ждет прорыв в git для ipynb https://t.co/yR0hOt7YkP https://t.co/w5tRt8rGJw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yR0hOt7YkP",
+            "expanded_url": "https://github.com/jupyterlab/jupyterlab-git",
+            "display_url": "github.com/jupyterlab/jup…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1243481495873949700,
+            "id_str": "1243481495873949699",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EUG71Q5WkAMg7YM.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUG71Q5WkAMg7YM.jpg",
+            "url": "https://t.co/w5tRt8rGJw",
+            "display_url": "pic.twitter.com/w5tRt8rGJw",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1243481521828347906/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1132,
+                "h": 728,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 437,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1132,
+                "h": 728,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1243481495873949700,
+            "id_str": "1243481495873949699",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EUG71Q5WkAMg7YM.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUG71Q5WkAMg7YM.jpg",
+            "url": "https://t.co/w5tRt8rGJw",
+            "display_url": "pic.twitter.com/w5tRt8rGJw",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1243481521828347906/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "large": {
+                "w": 1132,
+                "h": 728,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 437,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1132,
+                "h": 728,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                283,
+                182
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EUG71Q5WkAMg7YM.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 25,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 01:46:16 +0000 2020",
+      "id": 1244078389415329800,
+      "id_str": "1244078389415329799",
+      "full_text": "Космолёт ￼https://t.co/gRrtNC4aUS https://t.co/tIaoYOP2wT",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        33
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gRrtNC4aUS",
+            "expanded_url": "https://github.com/rapidsai/jupyterlab-nvdashboard",
+            "display_url": "github.com/rapidsai/jupyt…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1244078376819863600,
+            "id_str": "1244078376819863553",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244078376819863553/pu/img/n7tF-i4f_gDMHdpk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244078376819863553/pu/img/n7tF-i4f_gDMHdpk.jpg",
+            "url": "https://t.co/tIaoYOP2wT",
+            "display_url": "pic.twitter.com/tIaoYOP2wT",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1244078389415329799/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 320,
+                "h": 160,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 320,
+                "h": 160,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 320,
+                "h": 160,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1244078376819863600,
+            "id_str": "1244078376819863553",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1244078376819863553/pu/img/n7tF-i4f_gDMHdpk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1244078376819863553/pu/img/n7tF-i4f_gDMHdpk.jpg",
+            "url": "https://t.co/tIaoYOP2wT",
+            "display_url": "pic.twitter.com/tIaoYOP2wT",
+            "expanded_url": "https://twitter.com/dsunderhood/status/1244078389415329799/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 320,
+                "h": 160,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 320,
+                "h": 160,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 320,
+                "h": 160,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                2,
+                1
+              ],
+              "duration_millis": 13840,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1244078376819863553/pu/pl/-ouNr32-yud2DzlV.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1244078376819863553/pu/vid/320x160/ldTgv-Ua60uJCuTr.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 09:30:01 +0000 2020",
+      "id": 1244195097517920300,
+      "id_str": "1244195097517920257",
+      "full_text": "Хочу поделиться видео своего товарища и преподавателя нашей школы про моделирования вируса \"про который уже стыдно писать\" https://t.co/P4uhjyScOA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P4uhjyScOA",
+            "expanded_url": "https://www.youtube.com/watch?v=-u3nPFdw2UQ",
+            "display_url": "youtube.com/watch?v=-u3nPF…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 19:46:11 +0000 2020",
+      "id": 1244350160156725200,
+      "id_str": "1244350160156725249",
+      "full_text": "Неделя была тяжелая. Завтра пойду менять лангетку  с ноги. В ближайшие 6 минут я допишу свою кулстори, а будущих спикеров попрошу заретвитить обещанные посты. Следующий спикер точно восполнит мои недельные пробелы) Хорошего карантина!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 19:47:52 +0000 2020",
+      "id": 1244350582195990500,
+      "id_str": "1244350582195990529",
+      "full_text": "На 3ем курсе начал преподавать С и С++\nС 4го курса работать в Роскосмосе и программировать микроконтроллеры",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1243211022359552000,
+      "in_reply_to_status_id_str": "1243211022359552001",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 19:50:47 +0000 2020",
+      "id": 1244351316438200300,
+      "id_str": "1244351316438200322",
+      "full_text": "Эту историю рассказывал в ODS в красках тут\nhttps://t.co/8F9YEOiFmg\nи тут\nhttps://t.co/y5njsO4kGs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        97
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8F9YEOiFmg",
+            "expanded_url": "https://opendatascience.slack.com/archives/C0SGCGB52/p1559517208147700",
+            "display_url": "opendatascience.slack.com/archives/C0SGC…",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "url": "https://t.co/y5njsO4kGs",
+            "expanded_url": "https://opendatascience.slack.com/archives/C0SGCGB52/p1559517239148100",
+            "display_url": "opendatascience.slack.com/archives/C0SGC…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244350582195990500,
+      "in_reply_to_status_id_str": "1244350582195990529",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 19:53:20 +0000 2020",
+      "id": 1244351960469385200,
+      "id_str": "1244351960469385226",
+      "full_text": "На 6 курсе (2ом курсе магистратуры) пошел писать на Java проекты для ФСК ЕЭС. Поступил в школу программистов headhunter и deutsche bank\nПосле выпуска пошел в HH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244351316438200300,
+      "in_reply_to_status_id_str": "1244351316438200322",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 19:56:05 +0000 2020",
+      "id": 1244352652378587100,
+      "id_str": "1244352652378587137",
+      "full_text": "Т.к. сфера интересов была анализ данных. а работал программистом, решил пойти в аспирантуру в МИЭМ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        98
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244351960469385200,
+      "in_reply_to_status_id_str": "1244351960469385226",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 20:04:49 +0000 2020",
+      "id": 1244354847761150000,
+      "id_str": "1244354847761149958",
+      "full_text": "В 2014 году со смертью одного из научных руководителей @va_kri взял 2 курса в МГТУ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        82
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "va_kri",
+            "name": "Vsevolod Krishchenko",
+            "id": 365957510,
+            "id_str": "365957510",
+            "indices": [
+              55,
+              62
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244352652378587100,
+      "in_reply_to_status_id_str": "1244352652378587137",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 20:09:05 +0000 2020",
+      "id": 1244355923751194600,
+      "id_str": "1244355923751194624",
+      "full_text": "В начале 2015 года с коллегой из HH создали DS команду из 2 человек =)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244354847761150000,
+      "in_reply_to_status_id_str": "1244354847761149958",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 20:11:43 +0000 2020",
+      "id": 1244356586417672200,
+      "id_str": "1244356586417672199",
+      "full_text": "А весной на конференции AIST в Екатеринбурге лично познакомился с диктатором ODS =) До этого общались только в его VK чатах dmlabs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        130
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244355923751194600,
+      "in_reply_to_status_id_str": "1244355923751194624",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 20:12:39 +0000 2020",
+      "id": 1244356818505252900,
+      "id_str": "1244356818505252864",
+      "full_text": "С того момента влез в DS, ODS и все это по самые уши. ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        56
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1244356586417672200,
+      "in_reply_to_status_id_str": "1244356586417672199",
+      "in_reply_to_user_id": 1231564770249203700,
+      "in_reply_to_user_id_str": "1231564770249203715",
+      "in_reply_to_screen_name": "dsunderhood",
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Mar 29 20:32:24 +0000 2020",
+      "id": 1244361788457615400,
+      "id_str": "1244361788457615360",
+      "full_text": "Это была тяжелая неделя.\nМои контакты вы можете найти на https://t.co/MeH7ycHWZP\nЧерез 2-3 недели мы проведем PyData (PyDoma). Если вы хотите выступить (метан будет проходить удаленно - пишите в телеграм\nСледите за #career в ODS.\nМойте руки и не трогайте лицо ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "career",
+            "indices": [
+              215,
+              222
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MeH7ycHWZP",
+            "expanded_url": "https://ermakovpetr.ru/",
+            "display_url": "ermakovpetr.ru",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231564770249203700,
+        "id_str": "1231564770249203715"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}

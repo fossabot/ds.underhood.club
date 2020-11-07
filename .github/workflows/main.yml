@@ -1,0 +1,67 @@
+name: CI
+on:
+  workflow_dispatch:
+    inputs:
+      username:
+        description: 'Author Twitter username'
+        default: 'dsunderhood'
+        required: true
+      id:
+        description: 'First tweet ID'
+        default: '1282761905426358272'
+        required: true
+      date:
+        description: 'Date'
+        default: '13 July 2020'
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up node using nvm
+      uses: dcodeIO/setup-node-nvm@v4.0.0
+      with:
+        node-version: 10.16.0
+
+    - name: Prepare for trouble
+      run: |
+        git config --local user.email "viktor@tiulp.in"
+        git config --local user.name "tiulpin"
+        cd .dev
+        npm install
+
+    - name: Add author
+      env:
+        NAME: ${{ github.event.inputs.username }}
+        DATE: ${{ github.event.inputs.date }}
+        TWEET_ID: ${{ github.event.inputs.id }}
+      run: |
+        cd .dev
+        sed -ie "4s/$/ \n  { username: '$NAME', start: '$DATE', first: '$TWEET_ID', post: true, update: true},/" authors.js
+ 
+    - name: Get dump
+      env:
+        TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+        TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+        TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      run: |
+        cd .dev
+        npm run update
+    
+    - name: Build website
+      run: |
+        cd .dev
+        npm run build
+        cd ..
+        rm -rf *
+        mv .dev/dist/* .
+        git add .
+        git commit -m "🎉 New week, new author" -a
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

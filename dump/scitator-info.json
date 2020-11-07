@@ -1,0 +1,125 @@
+{
+  "id": 1231564770249203700,
+  "id_str": "1231564770249203715",
+  "name": "Data Scientist",
+  "screen_name": "dsunderhood",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный твиттер DS (инженеров, разработчиков, аналитиков). Автор недели — Сергей Колесников (@Scitator)",
+  "url": "https://t.co/DHjQJl2OAQ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/DHjQJl2OAQ",
+          "expanded_url": "https://dsunderhood.github.io/",
+          "display_url": "dsunderhood.github.io",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 1000,
+  "friends_count": 8,
+  "listed_count": 11,
+  "created_at": "Sun Feb 23 13:02:17 +0000 2020",
+  "favourites_count": 106,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 1095,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Apr 12 18:55:08 +0000 2020",
+    "id": 1249410741779734500,
+    "id_str": "1249410741779734529",
+    "text": "всем ❤️ и спасибо за внимание, \nstay tuned, пишите\nhttps://t.co/OjAhFLORj8\nhttps://t.co/31Bwlr1FBu\nнаверное, перека… https://t.co/DWgXk2i4ed",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/OjAhFLORj8",
+          "expanded_url": "https://t.me/scitator",
+          "display_url": "t.me/scitator",
+          "indices": [
+            51,
+            74
+          ]
+        },
+        {
+          "url": "https://t.co/31Bwlr1FBu",
+          "expanded_url": "https://twitter.com/Scitator",
+          "display_url": "twitter.com/Scitator",
+          "indices": [
+            75,
+            98
+          ]
+        },
+        {
+          "url": "https://t.co/DWgXk2i4ed",
+          "expanded_url": "https://twitter.com/i/web/status/1249410741779734529",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1249410739930005500,
+    "in_reply_to_status_id_str": "1249410739930005506",
+    "in_reply_to_user_id": 1231564770249203700,
+    "in_reply_to_user_id_str": "1231564770249203715",
+    "in_reply_to_screen_name": "dsunderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1247069474638962689/Oh1ohiAm_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247069474638962689/Oh1ohiAm_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231564770249203715/1586159508",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": true,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
