@@ -1,4 +1,4 @@
-name: Underhood CI
+name: CI
 on:
   workflow_dispatch:
     inputs:
