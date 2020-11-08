@@ -46,6 +46,7 @@ jobs:
         TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
         TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
       run: |
+        npm run update
         git add .
         git commit -m "🎉 New week, new author" -a
 
