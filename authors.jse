@@ -1,7 +1,8 @@
 import authorId from './helpers/author-id';
 
 export default authorId([
-  // post: false   
+  // post: false    
+  { username: 'vlivashkin', start: '2 November 2020', first: '1323193354612518912', post: true, update: true},
   { username: 'andrey_cheptsov', start: '26 October 2020', first: '1320622896834842624', post: true, update: true},
   { username: 'IAshrapov', start: '19 October 2020', first: '1318084080752361472', post: true, update: true},
   { username: 'iggisv9t', start: '29 June 2020', first: '1277527866566115329', post: true, update: true},

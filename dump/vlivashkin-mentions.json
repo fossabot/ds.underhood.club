@@ -1,0 +1,356 @@
+{
+  "mentions": [
+    {
+      "created_at": "Tue Nov 03 19:35:04 +0000 2020",
+      "id": 1323710305470419000,
+      "id_str": "1323710305470418945",
+      "text": "@tiulpin @_bravit Несколько дней мы наблюдали затяжной сетап, теперь увидели панчлайн",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "_bravit",
+            "name": "Виталий Брагилевский",
+            "id": 1337287994,
+            "id_str": "1337287994",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323709363622654000,
+      "in_reply_to_status_id_str": "1323709363622653953",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 19907536,
+        "id_str": "19907536"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 03 21:33:10 +0000 2020",
+      "id": 1323740023104151600,
+      "id_str": "1323740023104151552",
+      "text": "@tiulpin @xd720p @igrekde с этого надо начинать! 4й пункт должен быть 1м",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "xd720p",
+            "name": "Petr CauseLove",
+            "id": 194668428,
+            "id_str": "194668428",
+            "indices": [
+              9,
+              16
+            ]
+          },
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              17,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323709527204745200,
+      "in_reply_to_status_id_str": "1323709527204745219",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 94757717,
+        "id_str": "94757717"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 06 19:36:02 +0000 2020",
+      "id": 1324797711682576400,
+      "id_str": "1324797711682576385",
+      "text": "@tiulpin @igrekde Обед надо разделить с другом, ну что ты в самом деле!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1324759698994827300,
+      "in_reply_to_status_id_str": "1324759698994827265",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1291828094798639000,
+        "id_str": "1291828094798639105"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 07 18:04:10 +0000 2020",
+      "id": 1325136979344810000,
+      "id_str": "1325136979344809994",
+      "text": "@tiulpin Сначала надо закончить магистратуру https://t.co/wIZgpa3c34",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1325136970654253000,
+            "id_str": "1325136970654253058",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EmPVDc6VgAIQgFy.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmPVDc6VgAIQgFy.jpg",
+            "url": "https://t.co/wIZgpa3c34",
+            "display_url": "pic.twitter.com/wIZgpa3c34",
+            "expanded_url": "https://twitter.com/dyupon/status/1325136979344809994/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 330,
+                "h": 216,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 330,
+                "h": 216,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 330,
+                "h": 216,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1325136970654253000,
+            "id_str": "1325136970654253058",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/EmPVDc6VgAIQgFy.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmPVDc6VgAIQgFy.jpg",
+            "url": "https://t.co/wIZgpa3c34",
+            "display_url": "pic.twitter.com/wIZgpa3c34",
+            "expanded_url": "https://twitter.com/dyupon/status/1325136979344809994/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "medium": {
+                "w": 330,
+                "h": 216,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 330,
+                "h": 216,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 330,
+                "h": 216,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                55,
+                36
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/EmPVDc6VgAIQgFy.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1325134847543824400,
+      "in_reply_to_status_id_str": "1325134847543824384",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1291828094798639000,
+        "id_str": "1291828094798639105"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 07 18:05:47 +0000 2020",
+      "id": 1325137387358314500,
+      "id_str": "1325137387358314499",
+      "text": "@tiulpin так я ж только спросить...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tiulpin",
+            "name": "Viktor",
+            "id": 1103236561100001300,
+            "id_str": "1103236561100001280",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1325137250745782300,
+      "in_reply_to_status_id_str": "1325137250745782273",
+      "in_reply_to_user_id": 1103236561100001300,
+      "in_reply_to_user_id_str": "1103236561100001280",
+      "in_reply_to_screen_name": "tiulpin",
+      "user": {
+        "id": 1291828094798639000,
+        "id_str": "1291828094798639105"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
