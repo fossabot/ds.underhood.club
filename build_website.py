@@ -110,7 +110,7 @@ class Underhood:
             author=author, page=self.archive.collection.add_row(), local=self.local
         )
         author_page.write_page()
-        self.update_urls(author.username, author_page.url)
+        self.update_urls(author.username, author_page.url.split("/")[-1])
 
     def update_urls(self, url: str, slug: str) -> None:
         text = requests.get(self.cf_url, headers=self.cf_headers).text
