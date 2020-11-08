@@ -10,6 +10,7 @@ from pathlib import Path
 from time import sleep
 from typing import Dict, List, Set, Optional, Type, Union
 
+import requests
 from notion.block import (
     BasicBlock,
     BookmarkBlock,
@@ -91,19 +92,32 @@ class Author:
 
 
 class Underhood:
-    def __init__(self, token_v2: str, name: str, archive_slug: str):
+    def __init__(
+        self, token_v2: str, cf_token: str, name: str, archive_slug: str, cf_id: str
+    ):
         self.client = NotionClient(token_v2=token_v2)
         self.name = name
         self.local = LocalConfig()
         self.archive = self.client.get_block(f"https://www.notion.so/{archive_slug}")
+        self.cf_url = f"https://api.cloudflare.com/client/v4/accounts/{cf_id}/workers/scripts/{name}"
+        self.cf_headers = {
+            "Authorization": f"Bearer {cf_token}",
+            "Content-Type": "application/javascript",
+        }
 
-    def add_author(self, author: Author) -> str:
+    def add_author(self, author: Author) -> None:
         author_page = AuthorPage(
             author=author, page=self.archive.collection.add_row(), local=self.local
         )
         author_page.write_page()
+        self.update_urls(author.username, author_page.url)
 
-        return author_page.url
+    def update_urls(self, url: str, slug: str) -> None:
+        text = requests.get(self.cf_url, headers=self.cf_headers).text
+        lines = text.split("\n")
+        lines[10] = f"{lines[10][:-2]}, '{url}':'{slug}'}};"
+        text = "\n".join(lines)
+        requests.put(self.cf_url, headers=self.cf_headers, data=text.encode("utf8"))
 
 
 def dict_tweet(t: dict, td) -> Tweet:
@@ -201,8 +215,12 @@ class AuthorPage:
             f"@{self.author.username}",
             f"twitter.com/{self.author.username}",
             NotionDate(
-                start=datetime.strptime(self.author.tweets[0]["created_at"], TWEET_DATE_FORMAT).date(),
-                end=datetime.strptime(self.author.tweets[-1]["created_at"], TWEET_DATE_FORMAT).date(),
+                start=datetime.strptime(
+                    self.author.tweets[0]["created_at"], TWEET_DATE_FORMAT
+                ).date(),
+                end=datetime.strptime(
+                    self.author.tweets[-1]["created_at"], TWEET_DATE_FORMAT
+                ).date(),
             ),
             self.author.topics,
         )
@@ -243,7 +261,9 @@ def main():
     underhood = Underhood(
         token_v2=environ["NOTION_TOKEN_V2"],
         name=environ["UNDERHOOD"],
-        archive_slug=environ["ARCHIVE_SLUG"]
+        archive_slug=environ["ARCHIVE_SLUG"],
+        cf_id=environ["CF_ID"],
+        cf_token=environ["CF_TOKEN"],
     )
     underhood.add_author(
         Author(
@@ -251,7 +271,7 @@ def main():
             tweets=loads(
                 (Path("dump") / f"{environ['AUTHOR']}-tweets.json").read_text()
             )["tweets"],
-            avatar=environ["AUTHOR_IMAGE"]
+            avatar=environ["AUTHOR_IMAGE"],
         )
     )
 
