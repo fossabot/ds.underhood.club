@@ -1,13 +1,13 @@
-name: CI
+name: Underhood CI
 on:
   workflow_dispatch:
     inputs:
       username:
-        description: 'Author Twitter username'
-        default: 'dsunderhood'
+        description: 'Author Twitter'
+        default: 'tiulpin'
         required: true
       id:
-        description: 'First tweet ID'
+        description: 'First Tweet ID'
         default: '1282761905426358272'
         required: true
       date:
@@ -25,20 +25,18 @@ jobs:
       with:
         node-version: 10.16.0
 
-    - name: Prepare for trouble
+    - name: Prepare things
       run: |
         git config --local user.email "viktor@tiulp.in"
         git config --local user.name "tiulpin"
-        cd .dev
         npm install
 
-    - name: Add author
+    - name: Add the author
       env:
         NAME: ${{ github.event.inputs.username }}
         DATE: ${{ github.event.inputs.date }}
         TWEET_ID: ${{ github.event.inputs.id }}
       run: |
-        cd .dev
         sed -ie "4s/$/ \n  { username: '$NAME', start: '$DATE', first: '$TWEET_ID', post: true, update: true},/" authors.js
  
     - name: Get dump
@@ -48,16 +46,6 @@ jobs:
         TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
         TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
       run: |
-        cd .dev
-        npm run update
-    
-    - name: Build website
-      run: |
-        cd .dev
-        npm run build
-        cd ..
-        rm -rf *
-        mv .dev/dist/* .
         git add .
         git commit -m "🎉 New week, new author" -a
 
@@ -65,3 +53,18 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Build website
+      env:
+        AUTHOR: ${{ github.event.inputs.username }}
+        AUTHOR_IMAGE: "https://github.com/tiulpin/ds.underhood.club/blob/master/dump/images/${{ github.event.inputs.username }}-image.jpg?raw=true"
+        UNDERHOOD: "dsunderhood"
+        NOTION_TOKEN_V2: ${{ secrets.NOTION_TOKEN_V2 }}
+        ARCHIVE_SLUG: "40040c5fb4f04fb2af8c61d9557547a3"
+         
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.8.5'
+    - run: |
+        pip install notion==0.0.25
+        python build_website.py
