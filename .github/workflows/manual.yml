@@ -61,6 +61,11 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
     
+    - name: Install Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8.5'
+        
     - name: Publish
       env:
         NOTION_TOKEN_V2: ${{ secrets.NOTION_TOKEN_V2 }}
@@ -69,11 +74,7 @@ jobs:
         AUTHOR_IMAGE: "https://github.com/tiulpin/ds.underhood.club/blob/master/dump/images/${{ github.event.inputs.username }}-image.jpg?raw=true"
         UNDERHOOD: "dsunderhood"
         CF_ID: "7f1ab247128519dca5e3b36c3baa218a"
-        ARCHIVE_SLUG: "40040c5fb4f04fb2af8c61d9557547a3"
-         
-    - uses: actions/setup-python@v2
-      with:
-        python-version: '3.8.5'
-    - run: |
+        ARCHIVE_SLUG: "40040c5fb4f04fb2af8c61d9557547a3"   
+      run: |
         pip install notion==0.0.25 requests==2.24.0
         python build_website.py
